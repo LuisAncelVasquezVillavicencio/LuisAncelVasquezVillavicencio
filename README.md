@@ -7,44 +7,48 @@
 
 
 
-<h2 align="center">📂 Mis Proyectos</h2>
-
-<div align="left">
+<h2>📂 Mis Proyectos</h2>
 
 <!-- Proyecto 1 -->
-<h3>
-  <a href="https://github.com/LuisAncelVasquezVillavicencio/LuisAncelVasquezVillavicencio/wiki/%F0%9F%92%BC-Proyecto:-FrontLoyaltyqa-%E2%80%93-Bonus-E%E2%80%90commerce">
-    💼 Proyecto: FrontLoyaltyqa – Bonus E‐commerce
-  </a>
-</h3>
-<p>
-  <strong>Empresa:</strong> Bonus<br>
-  <strong>Fecha:</strong> Enero 2025
-</p>
-
-<!-- Proyecto 2 -->
-<h3>
-  <a href="https://github.com/TuUsuario/TuProyecto2">
-    🚀 Proyecto: Nombre del Proyecto 2
-  </a>
-</h3>
-<p>
-  <strong>Empresa:</strong> NombreEmpresa<br>
-  <strong>Fecha:</strong> Mes Año
-</p>
-
-<!-- Proyecto 3 -->
-<h3>
-  <a href="https://github.com/TuUsuario/TuProyecto3">
-    🌟 Proyecto: Nombre del Proyecto 3
-  </a>
-</h3>
-<p>
-  <strong>Empresa:</strong> NombreEmpresa<br>
-  <strong>Fecha:</strong> Mes Año
-</p>
-
+<div>
+  <h3>💼 Proyecto: Bonus E‐commerce</h3>
+  <p>
+    <strong>Empresa:</strong> Bonus<br>
+    <strong>Fecha:</strong> Enero 2025
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      En Bonus E-commerce, una plataforma orientada a la fidelización y gestión de usuarios en el sector retail, me encargué de diseñar y liderar la solución digital enfocada en mejorar la experiencia del cliente. El proyecto facilitó la afiliación de nuevos usuarios, optimizó procesos de pago seguros y gestionó eficazmente la información y recursos visuales, elevando la confianza y satisfacción de los clientes. La plataforma se convirtió en una herramienta estratégica para fortalecer la lealtad de los usuarios y ampliar el alcance de la marca Bonus en el mercado digital. 
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="https://github.com/LuisAncelVasquezVillavicencio/LuisAncelVasquezVillavicencio/wiki/%F0%9F%92%BC-Proyecto:-FrontLoyaltyqa-%E2%80%93-Bonus-E%E2%80%90commerce" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
 </div>
+<hr>
+<div>
+  <h3>💼 Proyecto: Mined LMS </h3>
+  <p>
+    <strong>Empresa:</strong> Bonus<br>
+    <strong>Fecha:</strong> Enero 2025
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      En Bonus E-commerce, una plataforma orientada a la fidelización y gestión de usuarios en el sector retail, me encargué de diseñar y liderar la solución digital enfocada en mejorar la experiencia del cliente. El proyecto facilitó la afiliación de nuevos usuarios, optimizó procesos de pago seguros y gestionó eficazmente la información y recursos visuales, elevando la confianza y satisfacción de los clientes. La plataforma se convirtió en una herramienta estratégica para fortalecer la lealtad de los usuarios y ampliar el alcance de la marca Bonus en el mercado digital. 
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="https://github.com/LuisAncelVasquezVillavicencio/LuisAncelVasquezVillavicencio/wiki/%F0%9F%92%BC-Proyecto:-FrontLoyaltyqa-%E2%80%93-Bonus-E%E2%80%90commerce" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+<!-- Agrega otros proyectos de forma similar -->
+
 
 
 
