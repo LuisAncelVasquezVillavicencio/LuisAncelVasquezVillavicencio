@@ -5,32 +5,49 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisancelvasquezvillavicencio" alt="luisancelvasquezvillavicencio" /></a> </p>
 
-- 🔭 I’m currently working on [d](d)
 
-<h2 align="left">
+
+<h2 align="center">📂 Mis Proyectos</h2>
+
+<div align="left">
+
+<!-- Proyecto 1 -->
+<h3>
   <a href="https://github.com/LuisAncelVasquezVillavicencio/LuisAncelVasquezVillavicencio/wiki/%F0%9F%92%BC-Proyecto:-FrontLoyaltyqa-%E2%80%93-Bonus-E%E2%80%90commerce">
     💼 Proyecto: FrontLoyaltyqa – Bonus E‐commerce
   </a>
-</h2>
+</h3>
+<p>
+  <strong>Empresa:</strong> Bonus<br>
+  <strong>Fecha:</strong> Enero 2025
+</p>
+
+<!-- Proyecto 2 -->
+<h3>
+  <a href="https://github.com/TuUsuario/TuProyecto2">
+    🚀 Proyecto: Nombre del Proyecto 2
+  </a>
+</h3>
+<p>
+  <strong>Empresa:</strong> NombreEmpresa<br>
+  <strong>Fecha:</strong> Mes Año
+</p>
+
+<!-- Proyecto 3 -->
+<h3>
+  <a href="https://github.com/TuUsuario/TuProyecto3">
+    🌟 Proyecto: Nombre del Proyecto 3
+  </a>
+</h3>
+<p>
+  <strong>Empresa:</strong> NombreEmpresa<br>
+  <strong>Fecha:</strong> Mes Año
+</p>
+
+</div>
 
 
-- 🌱 I’m currently learning **d**
 
-- 👯 I’m looking to collaborate on [d](d)
-
-- 🤝 I’m looking for help with [d](d)
-
-- 👨‍💻 All of my projects are available at [d](d)
-
-- 📝 I regularly write articles on [d](d)
-
-- 💬 Ask me about **d**
-
-- 📫 How to reach me **d**
-
-- 📄 Know about my experiences [d](d)
-
-- ⚡ Fun fact **d**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
