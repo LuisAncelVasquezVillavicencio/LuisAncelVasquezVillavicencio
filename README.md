@@ -14,7 +14,7 @@
   <h3>💼 Proyecto: Bonus E‐commerce</h3>
   <p>
     <strong>Empresa:</strong> Bonus<br>
-    <strong>Fecha:</strong> Enero 2025
+    <strong>Fecha:</strong> 2024 - 2025
   </p>
   <details>
     <summary>Ver más</summary>
@@ -33,7 +33,7 @@
   <h3>💼 Proyecto: Mined LMS </h3>
   <p>
     <strong>Empresa:</strong> Bonus<br>
-    <strong>Fecha:</strong> Enero 2025
+    <strong>Fecha:</strong> 2024 - 2025
   </p>
   <details>
     <summary>Ver más</summary>
