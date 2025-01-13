@@ -48,8 +48,366 @@
   </details>
 </div>
 <!-- Agrega otros proyectos de forma similar -->
+<div>
+  <h3>💼 Proyecto: MinedTV LMS en Streaming</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto MinedTV LMS en Streaming -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
 
+<div>
+  <h3>💼 Proyecto: Portal Micanva</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Portal Micanva -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
 
+<div>
+  <h3>💼 Proyecto: Escáner Harmonix</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Escáner Harmonix -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: Aplicación Crypton App/iOS Nativo</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Aplicación Crypton App/iOS Nativo -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: Web Easyfy Template para Shopify</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Web Easyfy Template para Shopify -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: Aplicación BinaryBeats App/iOS Nativo</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Aplicación BinaryBeats App/iOS Nativo -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: MinedAcademy LMS</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto MinedAcademy LMS -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: MinedEbook</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto MinedEbook -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: CashKing</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto CashKing -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: Aplicación MinedGo App/iOS Nativo</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Aplicación MinedGo App/iOS Nativo -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: MiVisualización</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto MiVisualización -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: Feria Online Expodeco</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Feria Online Expodeco -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: MiConect</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto MiConect -->
+      <br><br>
+      Para más información, visita la página del proyecto: 
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: CIP Colegio de Ingenieros Generación de Certificados de Habilidades</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto CIP Colegio de Ingenieros Generación de Certificados de Habilidades -->
+      <br><br>
+      Para más información, visita la página del proyecto:
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: Aplicación Prospera App LMS Offline</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Aplicación Prospera App LMS Offline -->
+      <br><br>
+      Para más información, visita la página del proyecto:
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: Gestión del Proceso de Café</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Gestión del Proceso de Café -->
+      <br><br>
+      Para más información, visita la página del proyecto:
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: Care Epidemiología</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Care Epidemiología -->
+      <br><br>
+      Para más información, visita la página del proyecto:
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+<div>
+  <h3>💼 Proyecto: Plataforma de Censo y Epidemiología de Riesgo</h3>
+  <p>
+    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
+    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
+  </p>
+  <details>
+    <summary>Ver más</summary>
+    <p>
+      <!-- Descripción detallada del proyecto Plataforma de Censo y Epidemiología de Riesgo -->
+      <br><br>
+      Para más información, visita la página del proyecto:
+      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
+        Página del Proyecto
+      </a>
+    </p>
+  </details>
+</div>
+
+Proyecto MinedTV LMS en Streaming
+Proyecto Portal Micanva
+Proyecto Escáner Harmonix
+Proyecto Aplicación Crypton App/iOS Nativo
+Proyecto Web Easyfy Template para Shopify
+Proyecto Aplicación BinaryBeats App/iOS Nativo
+Proyecto MinedAcademy LMS
+Proyecto MinedEbook
+Proyecto CashKing
+Proyecto Aplicación MinedGo App/iOS Nativo
+Proyecto MiVisualización
+Proyecto Feria Online Expodeco
+Proyecto MiConect
+Proyecto CIP Colegio de Ingenieros Generación de Certificados de Habilidades
+Proyecto Aplicación Prospera App LMS Offline
+Proyecto Gestión del Proceso de Café
+Proyecto Care Epidemiología
+Proyecto Plataforma de Censo y Epidemiología de Riesgo
 
 
 
