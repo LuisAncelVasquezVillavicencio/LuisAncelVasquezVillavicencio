@@ -6,6 +6,12 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisancelvasquezvillavicencio" alt="luisancelvasquezvillavicencio" /></a> </p>
 
 - 🔭 I’m currently working on [d](d)
+<h2 align="center">
+<a href="[https://github.com/ryo-ma/github-profile-trophy](https://github.com/LuisAncelVasquezVillavicencio/LuisAncelVasquezVillavicencio/wiki/%F0%9F%92%BC-Proyecto:-FrontLoyaltyqa-%E2%80%93-Bonus-E%E2%80%90commerce)">
+ 💼 Proyecto: FrontLoyaltyqa – Bonus E‐commerce
+</a>
+</h2>
+
 
 - 🌱 I’m currently learning **d**
 
