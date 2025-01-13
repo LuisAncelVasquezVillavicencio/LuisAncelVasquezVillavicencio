@@ -47,7 +47,7 @@
     </p>
   </details>
 </div>
-<!-- Agrega otros proyectos de forma similar -->
+<hr>
 <div>
   <h3>💼 Proyecto: MinedTV LMS en Streaming</h3>
   <p>
@@ -66,7 +66,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Portal Micanva</h3>
   <p>
@@ -85,7 +85,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Escáner Harmonix</h3>
   <p>
@@ -104,7 +104,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Aplicación Crypton App/iOS Nativo</h3>
   <p>
@@ -123,7 +123,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Web Easyfy Template para Shopify</h3>
   <p>
@@ -142,7 +142,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Aplicación BinaryBeats App/iOS Nativo</h3>
   <p>
@@ -161,7 +161,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: MinedAcademy LMS</h3>
   <p>
@@ -180,7 +180,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: MinedEbook</h3>
   <p>
@@ -199,7 +199,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: CashKing</h3>
   <p>
@@ -218,7 +218,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Aplicación MinedGo App/iOS Nativo</h3>
   <p>
@@ -237,7 +237,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: MiVisualización</h3>
   <p>
@@ -256,7 +256,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Feria Online Expodeco</h3>
   <p>
@@ -275,7 +275,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: MiConect</h3>
   <p>
@@ -294,7 +294,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: CIP Colegio de Ingenieros Generación de Certificados de Habilidades</h3>
   <p>
@@ -313,7 +313,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Aplicación Prospera App LMS Offline</h3>
   <p>
@@ -332,7 +332,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Gestión del Proceso de Café</h3>
   <p>
@@ -351,7 +351,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Care Epidemiología</h3>
   <p>
@@ -370,7 +370,7 @@
     </p>
   </details>
 </div>
-
+<hr>
 <div>
   <h3>💼 Proyecto: Plataforma de Censo y Epidemiología de Riesgo</h3>
   <p>
