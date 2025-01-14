@@ -7,8 +7,9 @@
 
 <h2>📂 Insignias</h2>
 
-<img src="./aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest Practitioner"  height="140">
-
+<a href="https://www.credly.com/badges/959e9cd2-3926-4b9a-a1db-b64a7c646315/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="./aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest Practitioner" height="140">
+</a>
 <h2>📂 Mis Proyectos</h2>
 
 <!-- Proyecto 1 -->
