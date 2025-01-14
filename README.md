@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisancelvasquezvillavicencio" alt="luisancelvasquezvillavicencio" /></a> </p>
 
-
+![AWS Cloud Quest](./aws-cloud-quest-cloud-practitioner.png)
 
 <h2>📂 Mis Proyectos</h2>
 
