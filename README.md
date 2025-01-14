@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisancelvasquezvillavicencio" alt="luisancelvasquezvillavicencio" /></a> </p>
 
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="959e9cd2-3926-4b9a-a1db-b64a7c646315" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 <h2>📂 Mis Proyectos</h2>
 
