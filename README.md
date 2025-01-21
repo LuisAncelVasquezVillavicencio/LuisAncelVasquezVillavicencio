@@ -429,3 +429,7 @@ Proyecto Plataforma de Censo y Epidemiología de Riesgo
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisancelvasquezvillavicencio&show_icons=true&locale=en" alt="luisancelvasquezvillavicencio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisancelvasquezvillavicencio&" alt="luisancelvasquezvillavicencio" /></p>
+
+
+
+https://www.notion.com/es
