@@ -1878,12 +1878,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Q1h7y7YF4-QG5iTAFe_N" name="Página-6">
-    <mxGraphModel dx="1434" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="3322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P-e4QFlztl8Z_gChwOMW-1" value="&lt;h4 data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong style=&quot;text-align: left;&quot; data-start=&quot;2772&quot; data-end=&quot;2790&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;DevOps y CI/CD&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;/h4&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;glass=0;shadow=1;labelBackgroundColor=none;fillColor=light-dark(#12b1f2, #A4A0C6);strokeColor=light-dark(#ffffff, #202020);fontColor=#FFFFFF;swimlaneFillColor=none;gradientColor=light-dark(#000e29, #ededed);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-70" width="630" height="180" as="geometry">
+          <mxGeometry x="1580" y="410" width="630" height="340" as="geometry">
             <mxRectangle x="80" y="80" width="220" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1926,122 +1926,316 @@
         <mxCell id="DN0obL6FacL9ts4SySV7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-1" source="PTMbE_Wl10ov49Rz90-i-5" target="PTMbE_Wl10ov49Rz90-i-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-30" value="&lt;h4 data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong style=&quot;text-align: left;&quot; data-start=&quot;2772&quot; data-end=&quot;2790&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Frontends Desacoplado&lt;/font&gt;&lt;/strong&gt;&lt;br&gt;&lt;/h4&gt;" style="swimlane;whiteSpace=wrap;html=1;rounded=1;glass=0;shadow=1;labelBackgroundColor=none;fillColor=light-dark(#12b1f2, #A4A0C6);strokeColor=light-dark(#ffffff, #202020);fontColor=#FFFFFF;swimlaneFillColor=none;gradientColor=light-dark(#000e29, #ededed);movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="130" width="630" height="240" as="geometry">
-            <mxRectangle x="80" y="80" width="220" height="60" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-30" target="P-e4QFlztl8Z_gChwOMW-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="79.99999999999977" y="145" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-30" target="DN0obL6FacL9ts4SySV7-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="79.99999999999977" y="115" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;Gestión de Librerías (npm / Monorepo)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-30">
-          <mxGeometry x="120" y="185" width="370" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-30" source="P-e4QFlztl8Z_gChwOMW-19" target="P-e4QFlztl8Z_gChwOMW-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-30" source="P-e4QFlztl8Z_gChwOMW-19" target="DN0obL6FacL9ts4SySV7-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-19" value="&lt;span style=&quot;text-align: left;&quot;&gt;Librerías UI 1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-30">
-          <mxGeometry x="170" y="115" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-30" source="P-e4QFlztl8Z_gChwOMW-20" target="P-e4QFlztl8Z_gChwOMW-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-30" source="P-e4QFlztl8Z_gChwOMW-20" target="DN0obL6FacL9ts4SySV7-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-20" value="&lt;span style=&quot;text-align: left;&quot;&gt;Librerías UI 1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-30">
-          <mxGeometry x="320.5" y="115" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-30" target="P-e4QFlztl8Z_gChwOMW-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="145" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-30" target="DN0obL6FacL9ts4SySV7-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="115" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DN0obL6FacL9ts4SySV7-2" value="Proyecto Principal (Aplicación Contenedor)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-30">
-          <mxGeometry x="120" y="45" width="370" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;Librerías UI 1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-30">
-          <mxGeometry x="470" y="115" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-15" value="&lt;span style=&quot;text-align: left;&quot;&gt;Librerías UI 1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-30">
-          <mxGeometry x="10" y="115" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-43" value="&lt;ol data-start=&quot;282&quot; data-end=&quot;1230&quot;&gt;&lt;li data-start=&quot;674&quot; data-end=&quot;862&quot;&gt;&lt;p data-start=&quot;677&quot; data-end=&quot;723&quot;&gt;&lt;strong data-start=&quot;677&quot; data-end=&quot;721&quot;&gt;Capa 2: API Gateway y Backend Serverless&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;727&quot; data-end=&quot;862&quot;&gt;&lt;li data-start=&quot;727&quot; data-end=&quot;805&quot;&gt;&lt;strong data-start=&quot;729&quot; data-end=&quot;764&quot;&gt;AWS Lambda o Firebase Functions&lt;/strong&gt; procesan las solicitudes del frontend.&lt;/li&gt;&lt;li data-start=&quot;809&quot; data-end=&quot;862&quot;&gt;&lt;strong data-start=&quot;811&quot; data-end=&quot;826&quot;&gt;API Gateway&lt;/strong&gt; expone las APIs y maneja tráfico.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;864&quot; data-end=&quot;1051&quot;&gt;&lt;p data-start=&quot;867&quot; data-end=&quot;906&quot;&gt;&lt;strong data-start=&quot;867&quot; data-end=&quot;904&quot;&gt;Capa 3: Autenticación y Seguridad&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;910&quot; data-end=&quot;1051&quot;&gt;&lt;li data-start=&quot;910&quot; data-end=&quot;989&quot;&gt;&lt;strong data-start=&quot;912&quot; data-end=&quot;943&quot;&gt;AWS Cognito o Firebase Auth&lt;/strong&gt; se encargan del login y manejo de usuarios.&lt;/li&gt;&lt;li data-start=&quot;993&quot; data-end=&quot;1051&quot;&gt;Valida credenciales antes de permitir acceso a la API.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;1053&quot; data-end=&quot;1230&quot;&gt;&lt;p data-start=&quot;1056&quot; data-end=&quot;1092&quot;&gt;&lt;strong data-start=&quot;1056&quot; data-end=&quot;1090&quot;&gt;Capa 4: Datos y Almacenamiento&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;1096&quot; data-end=&quot;1230&quot;&gt;&lt;li data-start=&quot;1096&quot; data-end=&quot;1172&quot;&gt;&lt;strong data-start=&quot;1098&quot; data-end=&quot;1139&quot;&gt;DynamoDB (AWS) o Firestore (Firebase)&lt;/strong&gt; almacenan datos estructurados.&lt;/li&gt;&lt;li data-start=&quot;1176&quot; data-end=&quot;1230&quot;&gt;&lt;strong data-start=&quot;1178&quot; data-end=&quot;1206&quot;&gt;S3 o Storage en Firebase&lt;/strong&gt; se usa para archivos.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="890" y="430" width="520" height="240" as="geometry" />
-        </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-44" value="Frontend" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220" width="150" height="60" as="geometry" />
+          <mxGeometry x="90" y="620" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-45" value="Agregacion Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="290" width="150" height="30" as="geometry" />
+          <mxGeometry x="90" y="690" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-46" value="Product sevrice" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="25" y="372" width="120" height="30" as="geometry" />
+          <mxGeometry x="45" y="772" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-47" value="Product sevrice" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="66" y="372" width="120" height="30" as="geometry" />
+          <mxGeometry x="86" y="772" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-48" value="Product sevrice" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="105" y="372" width="120" height="30" as="geometry" />
+          <mxGeometry x="125" y="772" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-49" value="Product sevrice" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="145" y="372" width="120" height="30" as="geometry" />
+          <mxGeometry x="165" y="772" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-50" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Frontend&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-91;" vertex="1" parent="1">
-          <mxGeometry y="230" width="80" height="40" as="geometry" />
+          <mxGeometry x="20" y="630" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-51" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;back&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-91;" vertex="1" parent="1">
-          <mxGeometry y="300" width="80" height="40" as="geometry" />
+          <mxGeometry x="20" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-52" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;database&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry y="380" width="80" height="40" as="geometry" />
+          <mxGeometry x="20" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-53" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Microservices&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="180" width="80" height="40" as="geometry" />
+          <mxGeometry x="110" y="580" width="80" height="40" as="geometry" />
         </mxCell>
         <UserObject label="/ui-banner                # Nombre de la librería&#xa;  ├── /src                # Código fuente&#xa;  │   ├── /components     # Componentes individuales&#xa;  │   │   ├── Banner.tsx  # Componente principal&#xa;  │   │   ├── Banner.module.css  # Estilos locales&#xa;  │   ├── /hooks          # Hooks reutilizables&#xa;  │   ├── /utils          # Funciones auxiliares&#xa;  │   ├── /types          # Tipos y modelos TypeScript&#xa;  │   ├── /api            # Servicios y llamadas a API&#xa;  │   │   ├── bannerService.ts  # Funciones para consumir API&#xa;  │   ├── index.ts        # Punto de entrada de la librería&#xa;  ├── /tests              # Pruebas unitarias con Jest&#xa;  │   ├── Banner.test.tsx # Test del componente&#xa;  ├── /stories            # Documentación interactiva con Storybook&#xa;  │   ├── Banner.stories.tsx&#xa;  ├── package.json        # Configuración del paquete&#xa;  ├── tsconfig.json       # Configuración de TypeScript&#xa;  ├── rollup.config.js    # Configuración para empaquetado con Rollup&#xa;  ├── .eslintrc.js        # Configuración de ESLint&#xa;  ├── README.md           # Documentación para desarrolladores" link="/ui-banner                # Nombre de la librería&#xa;  ├── /src                # Código fuente&#xa;  │   ├── /components     # Componentes individuales&#xa;  │   │   ├── Banner.tsx  # Componente principal&#xa;  │   │   ├── Banner.module.css  # Estilos locales&#xa;  │   ├── /hooks          # Hooks reutilizables&#xa;  │   ├── /utils          # Funciones auxiliares&#xa;  │   ├── /types          # Tipos y modelos TypeScript&#xa;  │   ├── /api            # Servicios y llamadas a API&#xa;  │   │   ├── bannerService.ts  # Funciones para consumir API&#xa;  │   ├── index.ts        # Punto de entrada de la librería&#xa;  ├── /tests              # Pruebas unitarias con Jest&#xa;  │   ├── Banner.test.tsx # Test del componente&#xa;  ├── /stories            # Documentación interactiva con Storybook&#xa;  │   ├── Banner.stories.tsx&#xa;  ├── package.json        # Configuración del paquete&#xa;  ├── tsconfig.json       # Configuración de TypeScript&#xa;  ├── rollup.config.js    # Configuración para empaquetado con Rollup&#xa;  ├── .eslintrc.js        # Configuración de ESLint&#xa;  ├── README.md           # Documentación para desarrolladores" id="P-e4QFlztl8Z_gChwOMW-54">
           <mxCell style="text;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-            <mxGeometry x="1530" y="242" width="410" height="310" as="geometry" />
+            <mxGeometry x="2440" y="-1030" width="430" height="310" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="P-e4QFlztl8Z_gChwOMW-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-21" target="P-e4QFlztl8Z_gChwOMW-54">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-56" value="&lt;h2 data-start=&quot;3424&quot; data-end=&quot;3465&quot;&gt;&lt;strong data-start=&quot;3427&quot; data-end=&quot;3465&quot;&gt;📌 Nuevas Políticas para el Equipo&lt;/strong&gt;&lt;/h2&gt;&lt;ol data-start=&quot;3466&quot; data-end=&quot;4110&quot;&gt;&lt;li data-start=&quot;3466&quot; data-end=&quot;3658&quot;&gt;&lt;p data-start=&quot;3469&quot; data-end=&quot;3503&quot;&gt;&lt;strong data-start=&quot;3469&quot; data-end=&quot;3503&quot;&gt;Estructura modular obligatoria&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;3507&quot; data-end=&quot;3658&quot;&gt;&lt;li data-start=&quot;3507&quot; data-end=&quot;3603&quot;&gt;Todo código debe estar en su respectiva carpeta (&lt;code data-start=&quot;3558&quot; data-end=&quot;3570&quot;&gt;components&lt;/code&gt;, &lt;code data-start=&quot;3572&quot; data-end=&quot;3579&quot;&gt;hooks&lt;/code&gt;, &lt;code data-start=&quot;3581&quot; data-end=&quot;3586&quot;&gt;api&lt;/code&gt;, &lt;code data-start=&quot;3588&quot; data-end=&quot;3595&quot;&gt;types&lt;/code&gt;, etc.).&lt;/li&gt;&lt;li data-start=&quot;3607&quot; data-end=&quot;3658&quot;&gt;&lt;strong data-start=&quot;3609&quot; data-end=&quot;3615&quot;&gt;No&lt;/strong&gt; deben haber archivos en la raíz de &lt;code data-start=&quot;3651&quot; data-end=&quot;3657&quot;&gt;src/&lt;/code&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;3660&quot; data-end=&quot;3784&quot;&gt;&lt;p data-start=&quot;3663&quot; data-end=&quot;3687&quot;&gt;&lt;strong data-start=&quot;3663&quot; data-end=&quot;3687&quot;&gt;Separación de lógica&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;3691&quot; data-end=&quot;3784&quot;&gt;&lt;li data-start=&quot;3691&quot; data-end=&quot;3784&quot;&gt;La lógica de negocio y llamadas a APIs deben estar en &lt;code data-start=&quot;3747&quot; data-end=&quot;3753&quot;&gt;api/&lt;/code&gt;, no dentro de los componentes.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;3786&quot; data-end=&quot;3886&quot;&gt;&lt;p data-start=&quot;3789&quot; data-end=&quot;3821&quot;&gt;&lt;strong data-start=&quot;3789&quot; data-end=&quot;3821&quot;&gt;Uso obligatorio de Storybook&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;3825&quot; data-end=&quot;3886&quot;&gt;&lt;li data-start=&quot;3825&quot; data-end=&quot;3886&quot;&gt;Cada nuevo componente debe tener su historia en &lt;code data-start=&quot;3875&quot; data-end=&quot;3885&quot;&gt;stories/&lt;/code&gt;.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;3888&quot; data-end=&quot;3980&quot;&gt;&lt;p data-start=&quot;3891&quot; data-end=&quot;3918&quot;&gt;&lt;strong data-start=&quot;3891&quot; data-end=&quot;3918&quot;&gt;Uso obligatorio de Jest&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;3922&quot; data-end=&quot;3980&quot;&gt;&lt;li data-start=&quot;3922&quot; data-end=&quot;3980&quot;&gt;Cada componente debe tener al menos una prueba unitaria.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;3982&quot; data-end=&quot;4110&quot;&gt;&lt;p data-start=&quot;3985&quot; data-end=&quot;4019&quot;&gt;&lt;strong data-start=&quot;3985&quot; data-end=&quot;4019&quot;&gt;Linting y formateo obligatorio&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;4023&quot; data-end=&quot;4110&quot;&gt;&lt;li data-start=&quot;4023&quot; data-end=&quot;4110&quot;&gt;El código debe seguir las reglas de ESLint y ser formateado antes de hacer un commit.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="242" width="560" height="400" as="geometry" />
+          <mxGeometry x="2440" y="-680" width="560" height="400" as="geometry" />
         </mxCell>
         <UserObject label="{&#xa;  &quot;name&quot;: &quot;@tuorg/ui-banner&quot;,&#xa;  &quot;version&quot;: &quot;1.0.0&quot;,&#xa;  &quot;main&quot;: &quot;dist/index.js&quot;,&#xa;  &quot;module&quot;: &quot;dist/index.es.js&quot;,&#xa;  &quot;types&quot;: &quot;dist/index.d.ts&quot;,&#xa;  &quot;scripts&quot;: {&#xa;    &quot;build&quot;: &quot;rollup -c&quot;,&#xa;    &quot;test&quot;: &quot;jest&quot;,&#xa;    &quot;storybook&quot;: &quot;start-storybook -p 6006&quot;,&#xa;    &quot;lint&quot;: &quot;eslint src --fix&quot;&#xa;  },&#xa;  &quot;dependencies&quot;: {&#xa;    &quot;react&quot;: &quot;^18.0.0&quot;&#xa;  },&#xa;  &quot;devDependencies&quot;: {&#xa;    &quot;typescript&quot;: &quot;^4.5.0&quot;,&#xa;    &quot;jest&quot;: &quot;^27.0.0&quot;,&#xa;    &quot;@testing-library/react&quot;: &quot;^13.0.0&quot;,&#xa;    &quot;rollup&quot;: &quot;^2.70.0&quot;,&#xa;    &quot;storybook&quot;: &quot;^6.5.0&quot;&#xa;  }&#xa;}" link="{&#xa;  &quot;name&quot;: &quot;@tuorg/ui-banner&quot;,&#xa;  &quot;version&quot;: &quot;1.0.0&quot;,&#xa;  &quot;main&quot;: &quot;dist/index.js&quot;,&#xa;  &quot;module&quot;: &quot;dist/index.es.js&quot;,&#xa;  &quot;types&quot;: &quot;dist/index.d.ts&quot;,&#xa;  &quot;scripts&quot;: {&#xa;    &quot;build&quot;: &quot;rollup -c&quot;,&#xa;    &quot;test&quot;: &quot;jest&quot;,&#xa;    &quot;storybook&quot;: &quot;start-storybook -p 6006&quot;,&#xa;    &quot;lint&quot;: &quot;eslint src --fix&quot;&#xa;  },&#xa;  &quot;dependencies&quot;: {&#xa;    &quot;react&quot;: &quot;^18.0.0&quot;&#xa;  },&#xa;  &quot;devDependencies&quot;: {&#xa;    &quot;typescript&quot;: &quot;^4.5.0&quot;,&#xa;    &quot;jest&quot;: &quot;^27.0.0&quot;,&#xa;    &quot;@testing-library/react&quot;: &quot;^13.0.0&quot;,&#xa;    &quot;rollup&quot;: &quot;^2.70.0&quot;,&#xa;    &quot;storybook&quot;: &quot;^6.5.0&quot;&#xa;  }&#xa;}" id="P-e4QFlztl8Z_gChwOMW-57">
           <mxCell style="text;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-            <mxGeometry x="1530" y="585" width="250" height="350" as="geometry" />
+            <mxGeometry x="370" y="580" width="250" height="350" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="📦 Ejemplo de &lt;code data-start=&quot;4378&quot; data-end=&quot;4392&quot;&gt;package.json&lt;/code&gt;" link="📦 Ejemplo de &lt;code data-start=&quot;4378&quot; data-end=&quot;4392&quot;&gt;package.json&lt;/code&gt;" id="P-e4QFlztl8Z_gChwOMW-58">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="1530" y="560" width="200" height="40" as="geometry" />
+            <mxGeometry x="370" y="540" width="200" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="/proyecto-principal         # Aplicación contenedora en React&#xa;  ├── /public               # Archivos estáticos y de configuración&#xa;  │   ├── index.html        # Archivo base de la aplicación&#xa;  │   ├── favicon.ico       # Ícono de la aplicación&#xa;  ├── /src                  # Código fuente principal&#xa;  │   ├── /app              # Configuración y estructura global&#xa;  │   │   ├── App.tsx       # Componente principal de la app&#xa;  │   │   ├── routes.tsx    # Definición de rutas&#xa;  │   │   ├── store.ts      # Configuración del estado global (Redux/Zustand)&#xa;  │   ├── /components       # Componentes globales compartidos&#xa;  │   │   ├── Header.tsx    # Encabezado de la app&#xa;  │   │   ├── Footer.tsx    # Pie de página&#xa;  │   ├── /layouts          # Plantillas de estructura para páginas&#xa;  │   │   ├── MainLayout.tsx # Layout principal&#xa;  │   │   ├── AdminLayout.tsx # Layout para el dashboard de admin&#xa;  │   ├── /pages            # Páginas principales&#xa;  │   │   ├── Home.tsx      # Página de inicio&#xa;  │   │   ├── About.tsx     # Página de información&#xa;  │   │   ├── Dashboard.tsx # Panel de administración&#xa;  │   ├── /modules          # Módulos principales de la app&#xa;  │   │   ├── /banner       # Microfrontend de banner&#xa;  │   │   │   ├── index.ts  # Exportaciones del módulo&#xa;  │   │   │   ├── Banner.tsx # Componente principal&#xa;  │   │   │   ├── hooks.ts  # Hooks específicos del módulo&#xa;  │   │   │   ├── api.ts    # Servicios para consumo de APIs&#xa;  │   │   ├── /blog         # Microfrontend de blog&#xa;  │   │   ├── /secciones    # Microfrontend de secciones&#xa;  │   ├── /services         # Servicios compartidos (API)&#xa;  │   │   ├── apiClient.ts  # Cliente API global (fetch/axios)&#xa;  │   │   ├── authService.ts # Autenticación&#xa;  │   ├── /state            # Estado global&#xa;  │   │   ├── bannerSlice.ts # Estado del banner (Redux/Zustand)&#xa;  │   │   ├── blogSlice.ts   # Estado del blog&#xa;  │   ├── /hooks            # Hooks personalizados reutilizables&#xa;  │   │   ├── useAuth.ts     # Hook para autenticación&#xa;  │   │   ├── useFetch.ts    # Hook para peticiones API&#xa;  │   ├── /utils            # Funciones auxiliares&#xa;  │   │   ├── formatDate.ts  # Función para formatear fechas&#xa;  │   │   ├── logger.ts      # Función para logs&#xa;  │   ├── /assets           # Archivos estáticos (imágenes, iconos, etc.)&#xa;  │   │   ├── logo.svg&#xa;  │   │   ├── styles.css&#xa;  ├── /tests                # Pruebas unitarias&#xa;  │   ├── App.test.tsx       # Pruebas para la app&#xa;  │   ├── apiClient.test.ts  # Pruebas para cliente API&#xa;  ├── /stories              # Documentación de componentes con Storybook&#xa;  │   ├── Header.stories.tsx&#xa;  │   ├── Banner.stories.tsx&#xa;  ├── .eslintrc.js          # Configuración ESLint&#xa;  ├── package.json          # Configuración del proyecto&#xa;  ├── tsconfig.json         # Configuración TypeScript&#xa;  ├── vite.config.ts        # Configuración de Vite (o Webpack)&#xa;  ├── README.md             # Documentación del proyecto" link="/proyecto-principal         # Aplicación contenedora en React&#xa;  ├── /public               # Archivos estáticos y de configuración&#xa;  │   ├── index.html        # Archivo base de la aplicación&#xa;  │   ├── favicon.ico       # Ícono de la aplicación&#xa;  ├── /src                  # Código fuente principal&#xa;  │   ├── /app              # Configuración y estructura global&#xa;  │   │   ├── App.tsx       # Componente principal de la app&#xa;  │   │   ├── routes.tsx    # Definición de rutas&#xa;  │   │   ├── store.ts      # Configuración del estado global (Redux/Zustand)&#xa;  │   ├── /components       # Componentes globales compartidos&#xa;  │   │   ├── Header.tsx    # Encabezado de la app&#xa;  │   │   ├── Footer.tsx    # Pie de página&#xa;  │   ├── /layouts          # Plantillas de estructura para páginas&#xa;  │   │   ├── MainLayout.tsx # Layout principal&#xa;  │   │   ├── AdminLayout.tsx # Layout para el dashboard de admin&#xa;  │   ├── /pages            # Páginas principales&#xa;  │   │   ├── Home.tsx      # Página de inicio&#xa;  │   │   ├── About.tsx     # Página de información&#xa;  │   │   ├── Dashboard.tsx # Panel de administración&#xa;  │   ├── /modules          # Módulos principales de la app&#xa;  │   │   ├── /banner       # Microfrontend de banner&#xa;  │   │   │   ├── index.ts  # Exportaciones del módulo&#xa;  │   │   │   ├── Banner.tsx # Componente principal&#xa;  │   │   │   ├── hooks.ts  # Hooks específicos del módulo&#xa;  │   │   │   ├── api.ts    # Servicios para consumo de APIs&#xa;  │   │   ├── /blog         # Microfrontend de blog&#xa;  │   │   ├── /secciones    # Microfrontend de secciones&#xa;  │   ├── /services         # Servicios compartidos (API)&#xa;  │   │   ├── apiClient.ts  # Cliente API global (fetch/axios)&#xa;  │   │   ├── authService.ts # Autenticación&#xa;  │   ├── /state            # Estado global&#xa;  │   │   ├── bannerSlice.ts # Estado del banner (Redux/Zustand)&#xa;  │   │   ├── blogSlice.ts   # Estado del blog&#xa;  │   ├── /hooks            # Hooks personalizados reutilizables&#xa;  │   │   ├── useAuth.ts     # Hook para autenticación&#xa;  │   │   ├── useFetch.ts    # Hook para peticiones API&#xa;  │   ├── /utils            # Funciones auxiliares&#xa;  │   │   ├── formatDate.ts  # Función para formatear fechas&#xa;  │   │   ├── logger.ts      # Función para logs&#xa;  │   ├── /assets           # Archivos estáticos (imágenes, iconos, etc.)&#xa;  │   │   ├── logo.svg&#xa;  │   │   ├── styles.css&#xa;  ├── /tests                # Pruebas unitarias&#xa;  │   ├── App.test.tsx       # Pruebas para la app&#xa;  │   ├── apiClient.test.ts  # Pruebas para cliente API&#xa;  ├── /stories              # Documentación de componentes con Storybook&#xa;  │   ├── Header.stories.tsx&#xa;  │   ├── Banner.stories.tsx&#xa;  ├── .eslintrc.js          # Configuración ESLint&#xa;  ├── package.json          # Configuración del proyecto&#xa;  ├── tsconfig.json         # Configuración TypeScript&#xa;  ├── vite.config.ts        # Configuración de Vite (o Webpack)&#xa;  ├── README.md             # Documentación del proyecto" id="P-e4QFlztl8Z_gChwOMW-59">
           <mxCell style="text;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-            <mxGeometry x="360" y="-205" width="430" height="790" as="geometry" />
+            <mxGeometry x="880" y="-1510" width="430" height="790" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="P-e4QFlztl8Z_gChwOMW-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DN0obL6FacL9ts4SySV7-2" target="P-e4QFlztl8Z_gChwOMW-59">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-97" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1740" y="380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-98" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Action&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-97">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-99" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-97">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-80" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1525" y="380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-81" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Repositorio&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-80">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-82" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-80">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-20" value="&lt;span style=&quot;text-align: left;&quot;&gt;Librerías blog&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="380" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-81" target="P-e4QFlztl8Z_gChwOMW-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-20" target="P-e4QFlztl8Z_gChwOMW-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-43" value="&lt;ol data-start=&quot;282&quot; data-end=&quot;1230&quot;&gt;&lt;li data-start=&quot;674&quot; data-end=&quot;862&quot;&gt;&lt;p data-start=&quot;677&quot; data-end=&quot;723&quot;&gt;&lt;strong data-start=&quot;677&quot; data-end=&quot;721&quot;&gt;Capa 2: API Gateway y Backend Serverless&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;727&quot; data-end=&quot;862&quot;&gt;&lt;li data-start=&quot;727&quot; data-end=&quot;805&quot;&gt;&lt;strong data-start=&quot;729&quot; data-end=&quot;764&quot;&gt;AWS Lambda o Firebase Functions&lt;/strong&gt; procesan las solicitudes del frontend.&lt;/li&gt;&lt;li data-start=&quot;809&quot; data-end=&quot;862&quot;&gt;&lt;strong data-start=&quot;811&quot; data-end=&quot;826&quot;&gt;API Gateway&lt;/strong&gt; expone las APIs y maneja tráfico.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;864&quot; data-end=&quot;1051&quot;&gt;&lt;p data-start=&quot;867&quot; data-end=&quot;906&quot;&gt;&lt;strong data-start=&quot;867&quot; data-end=&quot;904&quot;&gt;Capa 3: Autenticación y Seguridad&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;910&quot; data-end=&quot;1051&quot;&gt;&lt;li data-start=&quot;910&quot; data-end=&quot;989&quot;&gt;&lt;strong data-start=&quot;912&quot; data-end=&quot;943&quot;&gt;AWS Cognito o Firebase Auth&lt;/strong&gt; se encargan del login y manejo de usuarios.&lt;/li&gt;&lt;li data-start=&quot;993&quot; data-end=&quot;1051&quot;&gt;Valida credenciales antes de permitir acceso a la API.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li data-start=&quot;1053&quot; data-end=&quot;1230&quot;&gt;&lt;p data-start=&quot;1056&quot; data-end=&quot;1092&quot;&gt;&lt;strong data-start=&quot;1056&quot; data-end=&quot;1090&quot;&gt;Capa 4: Datos y Almacenamiento&lt;/strong&gt;&lt;/p&gt;&lt;ul data-start=&quot;1096&quot; data-end=&quot;1230&quot;&gt;&lt;li data-start=&quot;1096&quot; data-end=&quot;1172&quot;&gt;&lt;strong data-start=&quot;1098&quot; data-end=&quot;1139&quot;&gt;DynamoDB (AWS) o Firestore (Firebase)&lt;/strong&gt; almacenan datos estructurados.&lt;/li&gt;&lt;li data-start=&quot;1176&quot; data-end=&quot;1230&quot;&gt;&lt;strong data-start=&quot;1178&quot; data-end=&quot;1206&quot;&gt;S3 o Storage en Firebase&lt;/strong&gt; se usa para archivos.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="590" width="520" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-21" value="&lt;span style=&quot;text-align: left;&quot;&gt;Librerías Dasboard&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-83" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1535" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-84" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Repositorio&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-83">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-85" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-83">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-100" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1733" y="430" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-101" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Action&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-100">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-102" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-100">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-21" target="P-e4QFlztl8Z_gChwOMW-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-84" target="P-e4QFlztl8Z_gChwOMW-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-16" target="DN0obL6FacL9ts4SySV7-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-16" target="P-e4QFlztl8Z_gChwOMW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-16" target="P-e4QFlztl8Z_gChwOMW-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="-1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-16" target="P-e4QFlztl8Z_gChwOMW-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-16" target="P-e4QFlztl8Z_gChwOMW-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-16" target="P-e4QFlztl8Z_gChwOMW-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-16" value="&lt;span style=&quot;text-align: left;&quot;&gt;Gestión de Librerías (npm / Monorepo)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1579.5" y="-1030" width="351" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-19" target="P-e4QFlztl8Z_gChwOMW-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-19" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Microfrontend&lt;br&gt;design-banners&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="-900" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DN0obL6FacL9ts4SySV7-2" target="P-e4QFlztl8Z_gChwOMW-169">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2440" y="-1114.9411764705883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DN0obL6FacL9ts4SySV7-2" value="Proyecto Principal (Aplicación Contenedor)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580.5" y="-1130" width="349" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-76" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1395" y="-800" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-75" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Repositorio&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-76">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-73" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-76">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-90" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1395" y="-710" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-91" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Action&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-90">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-92" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-90">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="P-e4QFlztl8Z_gChwOMW-90" source="P-e4QFlztl8Z_gChwOMW-91" target="P-e4QFlztl8Z_gChwOMW-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-75" target="P-e4QFlztl8Z_gChwOMW-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-115" target="P-e4QFlztl8Z_gChwOMW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-115" value="&lt;span style=&quot;text-align: left;&quot;&gt;NPM Registro (Publicacion)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1580.5" y="-480" width="351" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-91" target="P-e4QFlztl8Z_gChwOMW-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-117" target="P-e4QFlztl8Z_gChwOMW-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-117" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Microfrontend&lt;br&gt;design-banners&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="-900" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-118" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1590" y="-800" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-119" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Repositorio&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-118">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-120" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-118">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-121" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1590" y="-710" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-122" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Action&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-121">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-123" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-121">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-119" target="P-e4QFlztl8Z_gChwOMW-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.226;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-122" target="P-e4QFlztl8Z_gChwOMW-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-134" target="P-e4QFlztl8Z_gChwOMW-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-134" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Microfrontend&lt;br&gt;design-blog&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="-900" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-135" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1800" y="-800" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-136" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Repositorio&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-135">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-137" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-135">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-138" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1800" y="-710" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-139" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Action&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-138">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-140" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-138">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-136" target="P-e4QFlztl8Z_gChwOMW-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-143" target="P-e4QFlztl8Z_gChwOMW-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-143" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Microfrontend&lt;br&gt;input-text-kit&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1995" y="-900" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-144" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1995" y="-800" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-145" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Repositorio&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-144">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-146" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-144">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-147" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1995" y="-710" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-148" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Action&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-147">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-149" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-147">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-145" target="P-e4QFlztl8Z_gChwOMW-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-153" target="P-e4QFlztl8Z_gChwOMW-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-153" target="P-e4QFlztl8Z_gChwOMW-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-153" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;Microfrontend&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;ai-product-kit&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="-900" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-154" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2190" y="-800" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-155" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Repositorio&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-154">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-156" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-154">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-157" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2190" y="-710" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-158" value="&lt;span style=&quot;color: rgb(0, 0, 0); text-align: justify; background-color: rgb(251, 251, 251);&quot;&gt;Action&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-157">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-159" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://1000marcas.net/wp-content/uploads/2020/02/GitHub-logo-1.jpg;" vertex="1" parent="P-e4QFlztl8Z_gChwOMW-157">
+          <mxGeometry x="4" y="5.300000000000011" width="30.07" height="17.39" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-155" target="P-e4QFlztl8Z_gChwOMW-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.825;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-139" target="P-e4QFlztl8Z_gChwOMW-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-148" target="P-e4QFlztl8Z_gChwOMW-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="P-e4QFlztl8Z_gChwOMW-158" target="P-e4QFlztl8Z_gChwOMW-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P-e4QFlztl8Z_gChwOMW-169" value="BackEnd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="-1130" width="125" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
