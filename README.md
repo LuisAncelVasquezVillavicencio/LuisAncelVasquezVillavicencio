@@ -137,11 +137,11 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
 </a><br>
 
 <a href="https://credentials.databricks.com/da711fb3-2c5e-43e7-92fc-6689f6163249#acc.szRSdH9j" target="_blank" rel="noopener noreferrer">
-  <img src="./img-certificados/DatabricksFundamentalscCRT.jpg" alt="AWS Cloud Quest Practitioner" width="70%">
+  <img src="./img-certificados/DatabricksFundamentalscCRT.jpg" alt="AWS Cloud Quest Practitioner" width="350">
 </a><br>
 
 <a href="https://credentials.databricks.com/2d1c460d-a5d4-49f1-9d99-21c5348db0f0#acc.HGQpI10Y" target="_blank" rel="noopener noreferrer">
-  <img src="./img-certificados/DatabricksFundamentalsAICRT.png" alt="AWS Cloud Quest Practitioner" width="70%">
+  <img src="./img-certificados/DatabricksFundamentalsAICRT.png" alt="AWS Cloud Quest Practitioner" width="350">
 </a><br>
 
 
