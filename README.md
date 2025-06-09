@@ -98,9 +98,22 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
   <li><strong>Service Integration:</strong> Izipay, Keynua, Zoom, Google Meet, Power BI Embedded</li>
 </ul>
 
+<h2>🌟 Habilidades Blandas</h2> 
+<ul>
+  <li><strong>Liderazgo:</strong> Capacidad para liderar equipos técnicos y dirigir proyectos desde la concepción hasta la implementación.</li>
+  <li><strong>Comunicación:</strong> Habilidad para comunicar conceptos técnicos a audiencias no técnicas de manera clara y efectiva.</li>
+  <li><strong>Colaboración:</strong> Experiencia trabajando en equipos multidisciplinarios y colaborando con diferentes departamentos.</li>
+  <li><strong>Gestión del Tiempo:</strong> Capacidad para gestionar múltiples proyectos y cumplir con plazos ajustados.</li>
+  <li><strong>Resolución de Problemas:</strong> Habilidad para identificar problemas complejos y desarrollar soluciones innovadoras.</li>
+  <li><strong>Adaptabilidad:</strong> Flexibilidad para adaptarse a nuevas tecnologías y metodologías de trabajo.</li>
+  <li><strong>Orientación al Cliente:</strong> Enfoque en mejorar la experiencia del usuario y satisfacer las necesidades del cliente.</li>
+</ul>
+
+
+
 <h2>📂 Mis Proyectos</h2>
 
-
+d
 
 <h2>📂 Insignias</h2>
 
@@ -194,17 +207,6 @@ div>
 
 
 
-
-<h2>🌟 Habilidades Blandas</h2>
-<ul>
-  <li><strong>Liderazgo:</strong> Capacidad para liderar equipos técnicos y dirigir proyectos desde la concepción hasta la implementación.</li>
-  <li><strong>Comunicación:</strong> Habilidad para comunicar conceptos técnicos a audiencias no técnicas de manera clara y efectiva.</li>
-  <li><strong>Colaboración:</strong> Experiencia trabajando en equipos multidisciplinarios y colaborando con diferentes departamentos.</li>
-  <li><strong>Gestión del Tiempo:</strong> Capacidad para gestionar múltiples proyectos y cumplir con plazos ajustados.</li>
-  <li><strong>Resolución de Problemas:</strong> Habilidad para identificar problemas complejos y desarrollar soluciones innovadoras.</li>
-  <li><strong>Adaptabilidad:</strong> Flexibilidad para adaptarse a nuevas tecnologías y metodologías de trabajo.</li>
-  <li><strong>Orientación al Cliente:</strong> Enfoque en mejorar la experiencia del usuario y satisfacer las necesidades del cliente.</li>
-</ul>
 
 
 
