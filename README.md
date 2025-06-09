@@ -20,7 +20,6 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Desarrollé la aplicación iOS utilizando SwiftUI, asegurando una experiencia de usuario fluida y eficiente.</li>
     <li>Implementé integraciones con servicios de pago como Izipay, verificación biométrica facial con Keynua, y billeteras digitales para mejorar la experiencia del usuario.</li>
     <li>Definí la base de datos de la aplicación, optimizando el almacenamiento y acceso a los datos.</li>
-    <li><strong>Service Integration:</strong> Izipay, Keynua, Zoom, Google Meet, Power BI Embedded</li>
   </ul>
 </div>
 
