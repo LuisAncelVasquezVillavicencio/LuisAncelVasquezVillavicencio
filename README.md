@@ -13,308 +13,8 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
 <a href="https://www.credly.com/badges/959e9cd2-3926-4b9a-a1db-b64a7c646315/public_url" target="_blank" rel="noopener noreferrer">
   <img src="./aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest Practitioner" height="140">
 </a>
-<h2>📂 Mis Proyectos</h2>
-
-<!-- Proyecto 1 -->
 
 <hr>
-
-<hr>
-<div>
-  <h3>💼 Proyecto: MinedTV LMS en Streaming</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto MinedTV LMS en Streaming -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-
-<hr>
-<div>
-  <h3>💼 Proyecto: Escáner Harmonix</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto Escáner Harmonix -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: Aplicación Crypton App/iOS Nativo</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto Aplicación Crypton App/iOS Nativo -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: Web Easyfy Template para Shopify</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto Web Easyfy Template para Shopify -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: Aplicación BinaryBeats App/iOS Nativo</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto Aplicación BinaryBeats App/iOS Nativo -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: MinedAcademy LMS</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto MinedAcademy LMS -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: MinedEbook</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto MinedEbook -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: CashKing</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto CashKing -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: Aplicación MinedGo App/iOS Nativo</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto Aplicación MinedGo App/iOS Nativo -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: MiVisualización</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto MiVisualización -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-
-<hr>
-<div>
-  <h3>💼 Proyecto: MiConect</h3> envios masivos wsp
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto MiConect -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: CIP Colegio de Ingenieros Generación de Certificados de Habilidades</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto CIP Colegio de Ingenieros Generación de Certificados de Habilidades -->
-      <br><br>
-      Para más información, visita la página del proyecto:
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: Aplicación Prospera App LMS Offline</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p> EL APP QUE ESRA CURSSO OFFLINE
-      <!-- Descripción detallada del proyecto Aplicación Prospera App LMS Offline -->
-      <br><br>
-      Para más información, visita la página del proyecto:
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-<div>
-  <h3>💼 Proyecto: Gestión del Proceso de Café</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto Gestión del Proceso de Café -->
-      <br><br>
-      Para más información, visita la página del proyecto:
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
-<hr>
-
-<hr>
-
-</div>
-
-Proyecto MinedTV LMS en Streaming
-Proyecto Portal Micanva
-Proyecto Escáner Harmonix
-Proyecto Aplicación Crypton App/iOS Nativo
-Proyecto Web Easyfy Template para Shopify
-Proyecto Aplicación BinaryBeats App/iOS Nativo
-Proyecto MinedAcademy LMS
-Proyecto MinedEbook
-Proyecto CashKing
-Proyecto Aplicación MinedGo App/iOS Nativo
-Proyecto MiVisualización
-Proyecto Feria Online Expodeco
-Proyecto MiConect
-Proyecto CIP Colegio de Ingenieros Generación de Certificados de Habilidades
-Proyecto Aplicación Prospera App LMS Offline
-Proyecto Gestión del Proceso de Café
-
-
-
 <h2>🛠 Experiencia Profesional</h2>
 
 <div>
@@ -383,12 +83,17 @@ Proyecto Gestión del Proceso de Café
     <li>La infraestructura del proyecto se basó en instancias EC2 y RDS en AWS, optimizando la escalabilidad y el rendimiento del sistema.</li>
   </ul>
   <div style="display: flex; gap: 10px;">
-    <img src="img-proyectos/Zika/1.jpg" alt="Z1" height="50">
-    <img src="img-proyectos/Zika/2.webp" alt="Z2" height="50">
-    <img src="img-proyectos/Zika/3.png" alt="Z3" height="50">
-    <img src="img-proyectos/Zika/4.png" alt="Z4" height="50">
+    <img src="img-proyectos/Zika/1.jpg" alt="Z1" height="150">
+    <img src="img-proyectos/Zika/2.webp" alt="Z2" height="150">
+    <img src="img-proyectos/Zika/3.png" alt="Z3" height="150">
+    <img src="img-proyectos/Zika/4.png" alt="Z4" height="150">
   </div>
 </div>
+
+
+
+
+<h2>📂 Mis Proyectos</h2>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -410,3 +115,62 @@ Proyecto Gestión del Proceso de Café
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisancelvasquezvillavicencio&" alt="luisancelvasquezvillavicencio" /></p>
 
 https://www.notion.com/es
+
+
+
+
+
+
+
+
+
+
+
+
+Proyecto MinedTV LMS en Streaming
+Proyecto Portal Micanva
+Proyecto Escáner Harmonix
+Proyecto Aplicación Crypton App/iOS Nativo
+Proyecto Web Easyfy Template para Shopify
+Proyecto Aplicación BinaryBeats App/iOS Nativo
+Proyecto MinedAcademy LMS
+Proyecto MinedEbook
+Proyecto CashKing
+Proyecto Aplicación MinedGo App/iOS Nativo
+Proyecto MiVisualización
+Proyecto Feria Online Expodeco
+Proyecto MiConect
+Proyecto CIP Colegio de Ingenieros Generación de Certificados de Habilidades
+Proyecto Aplicación Prospera App LMS Offline
+Proyecto Gestión del Proceso de Café
+div>
+  <h3>💼 Proyecto: MinedTV LMS en Streaming</h3>
+
+  <h3>💼 Proyecto: Escáner Harmonix</h3>
+
+  <h3>💼 Proyecto: Aplicación Crypton App/iOS Nativo</h3>
+
+  <h3>💼 Proyecto: Web Easyfy Template para Shopify</h3>
+
+  <h3>💼 Proyecto: Aplicación BinaryBeats App/iOS Nativo</h3>
+
+  <h3>💼 Proyecto: MinedAcademy LMS</h3>
+
+  <h3>💼 Proyecto: MinedEbook</h3>
+
+  <h3>💼 Proyecto: CashKing</h3>
+
+  <h3>💼 Proyecto: Aplicación MinedGo App/iOS Nativo</h3>
+
+  <h3>💼 Proyecto: MiVisualización</h3>
+
+  <h3>💼 Proyecto: MiConect</h3> envios masivos wsp
+
+  <h3>💼 Proyecto: CIP Colegio de Ingenieros Generación de Certificados de Habilidades</
+  <h3>💼 Proyecto: Aplicación Prospera App LMS Offline</h3>
+
+    <p> EL APP QUE ESRA CURSSO OFFLINE
+  
+
+
+
