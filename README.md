@@ -5,8 +5,8 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
 </h3>
 
 <hr>
-<h2>🛠 Experiencia Profesional</h2>
 
+<h2>🛠 Experiencia Profesional</h2>
 <div>
   <h3>App & Cloud Architect and Technical Leader</h3>
   <p>
