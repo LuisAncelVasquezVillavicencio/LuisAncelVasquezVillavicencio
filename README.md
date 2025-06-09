@@ -125,14 +125,29 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
 
 
 <h2>📂 Mis Proyectos</h2>
+<ul>
+  <li><strong>Portal Mi Canva:</strong> Plataforma para la creación de sitios web. <a href="https://portalmicanva.com/" target="_blank">portalmicanva.com</a></li>
+</ul>
 
-d
 
 <h2>📂 Insignias</h2>
 
 <a href="https://www.credly.com/badges/959e9cd2-3926-4b9a-a1db-b64a7c646315/public_url" target="_blank" rel="noopener noreferrer">
   <img src="./aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest Practitioner" height="140">
 </a>
+
+<a href="https://credentials.databricks.com/da711fb3-2c5e-43e7-92fc-6689f6163249#acc.szRSdH9j" target="_blank" rel="noopener noreferrer">
+  <img src="./img-certificados/DatabricksFundamentalscCRT.jpg" alt="AWS Cloud Quest Practitioner" height="250">
+</a>
+
+<a href="https://credentials.databricks.com/2d1c460d-a5d4-49f1-9d99-21c5348db0f0#acc.HGQpI10Y" target="_blank" rel="noopener noreferrer">
+  <img src="./img-certificados/DatabricksFundamentalsAICRT.png" alt="AWS Cloud Quest Practitioner" height="250">
+</a>
+
+
+
+
+
 
 
 
