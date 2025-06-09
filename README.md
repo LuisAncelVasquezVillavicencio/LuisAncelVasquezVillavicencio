@@ -80,6 +80,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
   </div>
 </div>
 
+
 <h2>🔧 Technical Skills</h2>
 <ul>
   <li><strong>Frontend Development:</strong> React, TypeScript, Tailwind CSS, Bootstrap, Material-UI, HTML, CSS, JavaScript</li>
@@ -108,6 +109,19 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
   <li><strong>Orientación al Cliente:</strong> Enfoque en mejorar la experiencia del usuario y satisfacer las necesidades del cliente.</li>
 </ul>
 
+<h2>🏢 Chief Technology Officer (CTO) Experience</h2>
+<ul>
+  <li><strong>Ubicabien:</strong><br>
+    <strong>URL:</strong> <a href="https://www.ubicabien.com/" target="_blank">ubicabien.com</a><br>
+    <strong>Año:</strong> 2025<br>
+    Como CTO, soy responsable de toda la parte tecnológica, incluyendo la creación de la plataforma y la implementación de lógicas complejas. Trabajamos con mapas y zonas de riesgo, utilizando tecnologías como AWS, Vercel, Firebase, y APIs de Google Maps, así como datos propios para evaluar la viabilidad de inversiones en terrenos.
+  </li>
+  <li><strong>Sangre Fuerte:</strong><br>
+    <strong>URL:</strong> <a href="https://www.sangrefuerte.com/" target="_blank">sangrefuerte.com</a><br>
+    <strong>Año:</strong> 2025<br>
+    En esta healthtech, lidero el desarrollo tecnológico para identificar anemia mediante fotos del párpado y uñas. Desarrollé la aplicación usando Ionic como tecnología híbrida, integrando un modelo de predicción y utilizando Supabase para el almacenamiento de datos, además de AWS. Soy responsable de toda la parte tecnológica.
+  </li>
+</ul>
 
 
 <h2>📂 Mis Proyectos</h2>
