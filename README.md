@@ -72,12 +72,12 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>El sistema de gestión permitía la exportación de datos en formato Excel y generaba informes analíticos detallados sobre la distribución y prevalencia del virus.</li>
     <li>La infraestructura del proyecto se basó en instancias EC2 y RDS en AWS, optimizando la escalabilidad y el rendimiento del sistema.</li>
   </ul>
-  <div style="display: flex; gap: 10px;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="img-proyectos/Zika/1.jpg" alt="Z1" height="150">
     <img src="img-proyectos/Zika/2.webp" alt="Z2" height="150">
     <img src="img-proyectos/Zika/3.png" alt="Z3" height="150">
     <img src="img-proyectos/Zika/4.png" alt="Z4" height="150">
-</div>
+  </div>
 </div>
 
 <h2>🔧 Technical Skills</h2>
