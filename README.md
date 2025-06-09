@@ -230,7 +230,21 @@ div>
   
 
 
+minedgo
+https://apps.apple.com/ec/app/mined-go/id1611429257
+https://mined.world/mined-go-la-herramienta-mas-potente-de-la-industria-del-trading/
 
 
+colegio inge º
+
+https://millev.com/portfolio/sistema-de-emision-certificado-de-habilidad/
+
+beneficiarios 
+
+https://millev.com/portfolio/sistema-de-gestion-de-beneficiarios/
+
+
+linkd e mined
+https://mined.world/
 
 
