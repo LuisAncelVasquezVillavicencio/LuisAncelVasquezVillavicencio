@@ -31,6 +31,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Desarrollé la aplicación iOS utilizando SwiftUI, asegurando una experiencia de usuario fluida y eficiente.</li>
     <li>Implementé integraciones con servicios de pago como Izipay, verificación biométrica facial con Keynua, y billeteras digitales para mejorar la experiencia del usuario.</li>
     <li>Definí la base de datos de la aplicación, optimizando el almacenamiento y acceso a los datos.</li>
+    <li><strong>Service Integration:</strong> Izipay, Keynua, Zoom, Google Meet, Power BI Embedded</li>
   </ul>
 </div>
 
@@ -87,11 +88,25 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <img src="img-proyectos/Zika/2.webp" alt="Z2" height="150">
     <img src="img-proyectos/Zika/3.png" alt="Z3" height="150">
     <img src="img-proyectos/Zika/4.png" alt="Z4" height="150">
-  </div>
+</div>
 </div>
 
-
-
+<h2>🔧 Technical Skills</h2>
+<ul>
+  <li><strong>Frontend Development:</strong> React, TypeScript, Tailwind CSS, Bootstrap, Material-UI, HTML, CSS, JavaScript</li>
+  <li><strong>Cloud Services:</strong> AWS (Avanzado), Azure (Intermedio), Google Cloud (Intermedio)</li>
+  <li><strong>Mobile Development:</strong> Android , iOS </li>
+  <li><strong>Backend Technologies:</strong> Node.js , Laravel, Python </li>
+  <li><strong>Database Systems:</strong> MySQL , PostgreSQL , SQLite , MongoDB , DynamoDB </li>
+  <li><strong>API Design and Development:</strong> RESTful APIs </li>
+  <li><strong>DevOps and CI/CD:</strong> Docker , Terraform , GitHub Actions </li>
+  <li><strong>Data Analysis Tools:</strong> Power BI , Excel </li>
+  <li><strong>Version Control:</strong> Git </li>
+  <li><strong>Security Practices:</strong> OWASP , Cloudflare , Sonarcloud </li>
+  <li><strong>Rapid Development Tools:</strong> Firebase , Supabase </li>
+  <li><strong>Analytics and Monitoring:</strong> Google Analytics, Google Sheets</li>
+  <li><strong>Service Integration:</strong> Izipay, Keynua, Zoom, Google Meet, Power BI Embedded</li>
+</ul>
 
 <h2>📂 Mis Proyectos</h2>
 
