@@ -4,7 +4,6 @@
 Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desarrollo de software. Poseo un profundo dominio de diversos lenguajes de programación y tecnologías de vanguardia, lo que me capacita para diseñar y construir soluciones innovadoras y escalables. Con una sólida comprensión de los principios y prácticas del desarrollo de software, implemento metodologías ágiles y enfoques de ingeniería tanto en entornos on-premise como en la nube. 
 </h3>
 
-<hr>
 
 <h2>🛠 Experiencia Profesional</h2>
 <div>
