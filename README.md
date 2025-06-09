@@ -1,5 +1,8 @@
 <h1 align="left">Hola 👋, soy Luis Ancel Vasquez Villavicencio</h1>
-<h3 align="left">Me apasiona el desarrollo de soluciones tecnológicas que impacten positivamente en la sociedad, como plataformas educativas y herramientas que simplifican la vida de las personas. Disfruto diseñar arquitecturas escalables en la nube, trabajar con tecnologías como React, AWS, y Terraform, y resolver problemas complejos mediante la integración de sistemas eficientes. Además, me motiva explorar la inteligencia artificial, la gamificación, y crear experiencias interactivas que mejoren la educación, la salud y otros sectores clave. Constantemente busco aprender y aplicar nuevas herramientas para optimizar procesos y construir soluciones innovadoras.</h3>
+
+<h3 align="left">
+Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desarrollo de software. Poseo un profundo dominio de diversos lenguajes de programación y tecnologías de vanguardia, lo que me capacita para diseñar y construir soluciones innovadoras y escalables. Con una sólida comprensión de los principios y prácticas del desarrollo de software, implemento metodologías ágiles y enfoques de ingeniería tanto en entornos on-premise como en la nube. 
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisancelvasquezvillavicencio&label=Profile%20views&color=0e75b6&style=flat" alt="luisancelvasquezvillavicencio" /> </p>
 
@@ -13,43 +16,9 @@
 <h2>📂 Mis Proyectos</h2>
 
 <!-- Proyecto 1 -->
-<div>
-  <h3>💼 Proyecto: Bonus E‐commerce</h3>
-  <p>
-    <strong>Empresa:</strong> Bonus<br>
-    <strong>Fecha:</strong> 2024 - 2025
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      En Bonus E-commerce, una plataforma orientada a la fidelización y gestión de usuarios en el sector retail, me encargué de diseñar y liderar la solución digital enfocada en mejorar la experiencia del cliente. El proyecto facilitó la afiliación de nuevos usuarios, optimizó procesos de pago seguros y gestionó eficazmente la información y recursos visuales, elevando la confianza y satisfacción de los clientes. La plataforma se convirtió en una herramienta estratégica para fortalecer la lealtad de los usuarios y ampliar el alcance de la marca Bonus en el mercado digital. 
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="https://github.com/LuisAncelVasquezVillavicencio/LuisAncelVasquezVillavicencio/wiki/%F0%9F%92%BC-Proyecto:-FrontLoyaltyqa-%E2%80%93-Bonus-E%E2%80%90commerce" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
+
 <hr>
-<div>
-  <h3>💼 Proyecto: Mined LMS </h3>
-  <p>
-    <strong>Empresa:</strong> Bonus<br>
-    <strong>Fecha:</strong> 2024 - 2025
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      En Bonus E-commerce, una plataforma orientada a la fidelización y gestión de usuarios en el sector retail, me encargué de diseñar y liderar la solución digital enfocada en mejorar la experiencia del cliente. El proyecto facilitó la afiliación de nuevos usuarios, optimizó procesos de pago seguros y gestionó eficazmente la información y recursos visuales, elevando la confianza y satisfacción de los clientes. La plataforma se convirtió en una herramienta estratégica para fortalecer la lealtad de los usuarios y ampliar el alcance de la marca Bonus en el mercado digital. 
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="https://github.com/LuisAncelVasquezVillavicencio/LuisAncelVasquezVillavicencio/wiki/%F0%9F%92%BC-Proyecto:-FrontLoyaltyqa-%E2%80%93-Bonus-E%E2%80%90commerce" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
+
 <hr>
 <div>
   <h3>💼 Proyecto: MinedTV LMS en Streaming</h3>
@@ -71,23 +40,7 @@
 </div>
 <hr>
 <div>
-  <h3>💼 Proyecto: Portal Micanva</h3>
-  <p>
-    <strong>Empresa:</strong> <!-- Nombre de la empresa --> <br>
-    <strong>Fecha:</strong> <!-- Año inicial - Año final -->
-  </p>
-  <details>
-    <summary>Ver más</summary>
-    <p>
-      <!-- Descripción detallada del proyecto Portal Micanva -->
-      <br><br>
-      Para más información, visita la página del proyecto: 
-      <a href="<!-- URL del proyecto -->" target="_blank" rel="noopener noreferrer">
-        Página del Proyecto
-      </a>
-    </p>
-  </details>
-</div>
+
 <hr>
 <div>
   <h3>💼 Proyecto: Escáner Harmonix</h3>
@@ -412,7 +365,58 @@ Proyecto Gestión del Proceso de Café
 Proyecto Care Epidemiología
 Proyecto Plataforma de Censo y Epidemiología de Riesgo
 
+<h2>🛠 Experiencia Profesional</h2>
 
+<div>
+  <h3>App & Cloud Architect and Technical Leader</h3>
+  <p>
+    <strong>Empresa:</strong> Bonus<br>
+    <strong>Caso:</strong> Creación de plataforma e-commerce Bonus (Web y Apps)<br>
+    <strong>URL:</strong> <a href="https://bonus.pe" target="_blank">bonus.pe</a><br>
+    <strong>Fecha:</strong> Mayo 2022 - Enero 2025
+  </p>
+  <ul>
+    <li>Definí la arquitectura cloud en AWS utilizando lambdas y microservicios para la plataforma Web, App iOS, y App Android, incluyendo Cloudflare para mejorar la seguridad y el rendimiento.</li>
+    <li>Actué como líder técnico, encargándome de la definición de la arquitectura y la construcción del frontend en React.</li>
+    <li>Desarrollé la aplicación iOS utilizando SwiftUI, asegurando una experiencia de usuario fluida y eficiente.</li>
+    <li>Implementé integraciones con servicios de pago como Izipay, verificación biométrica facial con Keynua, y billeteras digitales para mejorar la experiencia del usuario.</li>
+    <li>Definí la base de datos de la aplicación, optimizando el almacenamiento y acceso a los datos.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>App & Cloud Architect and Technical Leader</h3>
+  <p>
+    <strong>Empresa:</strong> MinedWord LMS<br>
+    <strong>Caso:</strong> Desarrollo de plataforma de educación online<br>
+    <strong>URL:</strong> <a href="https://minedacademy.com" target="_blank">minedacademy.com</a><br>
+    <strong>Fecha:</strong> 2023 - Diciembre 2024
+  </p>
+  <ul>
+    <li>Definí una arquitectura serverless en AWS utilizando microservicios con lambdas y API Gateway, integrando un frontend robusto en React para una experiencia de usuario dinámica y eficiente, con Cloudflare para mejorar la seguridad y el rendimiento.</li>
+    <li>Actué como líder técnico, encargándome de la definición de la arquitectura y la construcción del frontend.</li>
+    <li>Implementé integraciones con servicios de streaming y Nexen para logueo y consulta de pagos.</li>
+    <li>Utilicé servicios como Cognito para la integración de login y registros, asegurando una experiencia de usuario fluida y segura.</li>
+    <li>Me encargué de la definición de la base de datos de la aplicación en PostgreSQL, optimizando el almacenamiento y acceso a los datos.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>App Architect & Developer</h3>
+  <p>
+    <strong>Empresa:</strong> Expodeco<br>
+    <strong>Año:</strong> 2020<br>
+    <strong>Video:</strong> <a href="https://www.youtube.com/watch?v=f-mcCRlpv4g&ab_channel=EXPODECO" target="_blank">Ver Video</a>
+  </p>
+  <ul>
+    <li>Implementé y di soporte a la arquitectura en AWS, incluyendo la creación y configuración de servidores, autoscaling y load balancing con Cloudflare.</li>
+    <li>Desarrollé una aplicación web para recorridos 3D, integrando analítica avanzada mediante enlaces para capturar datos de usuario.</li>
+    <li>Diseñé y gestioné la base de datos, asegurando un almacenamiento eficiente y seguro de la información.</li>
+    <li>Creé un administrador en Laravel para gestionar el contenido de los recorridos 3D y eventos en vivo, con integraciones a Zoom y Google Meet.</li>
+    <li>Utilicé Power BI para desarrollar reportes detallados basados en los datos de la base de datos.</li>
+    <li>Proporcioné soporte durante el lanzamiento de la aplicación, asegurando un despliegue exitoso.</li>
+  </ul>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -422,14 +426,12 @@ Proyecto Plataforma de Censo y Epidemiología de Riesgo
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nativescript.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisancelvasquezvillavicencio&show_icons=true&locale=en&layout=compact" alt="luisancelvasquezvillavicencio" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luisancelvasquezvillavicencio&show_icons=true&locale=en" alt="luisancelvasquezvillavicencio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luisancelvasquezvillavicencio&" alt="luisancelvasquezvillavicencio" /></p>
-
-
 
 https://www.notion.com/es
