@@ -139,7 +139,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
   <img src="./img-certificados/DatabricksFundamentalsAI.png" alt="AWS Cloud Quest Practitioner" height="140">
 </a>
 <a href="https://credentials.databricks.com/da711fb3-2c5e-43e7-92fc-6689f6163249#acc.szRSdH9j" target="_blank" rel="noopener noreferrer">
-  <img src="./img-certificados/DatabricksFundamentals.png" alt="AWS Cloud Quest Practitioner" height="140">
+  <img src="./img-certificados/DatabricksFundamentals.png" alt="AWS Cloud Quest Practitioner" height="135">
 </a>
 
 
