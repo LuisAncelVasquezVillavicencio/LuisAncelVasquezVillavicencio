@@ -418,6 +418,29 @@ Proyecto Plataforma de Censo y Epidemiología de Riesgo
   </ul>
 </div>
 
+<div>
+  <h3>App Developer & Web Architect</h3>
+  <p>
+    <strong>Empresa:</strong> CARE Perú<br>
+    <strong>Año:</strong> 2019<br>
+    <strong>Premio:</strong> <a href="https://care.org.pe/pods-2020-juntos-ante-el-zika/" target="_blank">PODS 2020: Proyecto "Juntos ante el Zika"</a>
+  </p>
+  <ul>
+    <li>Desarrollé una aplicación Android para censos epidemiológicos del Zika, utilizando tecnología de escaneo de códigos QR para registrar ubicaciones de viviendas con precisión geoespacial.</li>
+    <li>Implementé un sistema de almacenamiento local con SQLite para operación offline del aplicativo, con sincronización automática a una base de datos MySQL Aurora en AWS al restablecer la conectividad.</li>
+    <li>Diseñé e implementé una API RESTful en Laravel, complementada con un sistema de gestión de contenido que incluía un mapa interactivo para la visualización de datos epidemiológicos y gestion de usuarios.</li>
+    <li>El sistema de gestión permitía la exportación de datos en formato Excel y generaba informes analíticos detallados sobre la distribución y prevalencia del virus.</li>
+    <li>La infraestructura del proyecto se basó en instancias EC2 y RDS en AWS, optimizando la escalabilidad y el rendimiento del sistema.</li>
+  </ul>
+  <div style="display: flex; gap: 10px;">
+    <img src="img-proyectos/Zika/1.jpg" alt="QR Code" height="50">
+    <img src="img-proyectos/Zika/2.webp" alt="QR Code" height="50">
+    <img src="img-proyectos/Zika/3.png" alt="QR Code" height="50">
+    <img src="img-proyectos/Zika/4.png" alt="QR Code" height="50">
+  </div>
+</div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d" height="30" width="40" /></a>
