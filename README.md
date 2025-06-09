@@ -4,16 +4,6 @@
 Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desarrollo de software. Poseo un profundo dominio de diversos lenguajes de programación y tecnologías de vanguardia, lo que me capacita para diseñar y construir soluciones innovadoras y escalables. Con una sólida comprensión de los principios y prácticas del desarrollo de software, implemento metodologías ágiles y enfoques de ingeniería tanto en entornos on-premise como en la nube. 
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisancelvasquezvillavicencio&label=Profile%20views&color=0e75b6&style=flat" alt="luisancelvasquezvillavicencio" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisancelvasquezvillavicencio" alt="luisancelvasquezvillavicencio" /></a> </p>
-
-<h2>📂 Insignias</h2>
-
-<a href="https://www.credly.com/badges/959e9cd2-3926-4b9a-a1db-b64a7c646315/public_url" target="_blank" rel="noopener noreferrer">
-  <img src="./aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest Practitioner" height="140">
-</a>
-
 <hr>
 <h2>🛠 Experiencia Profesional</h2>
 
@@ -111,6 +101,16 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
 <h2>📂 Mis Proyectos</h2>
 
 
+
+<h2>📂 Insignias</h2>
+
+<a href="https://www.credly.com/badges/959e9cd2-3926-4b9a-a1db-b64a7c646315/public_url" target="_blank" rel="noopener noreferrer">
+  <img src="./aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest Practitioner" height="140">
+</a>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="d" height="30" width="40" /></a>
@@ -132,6 +132,11 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
 https://www.notion.com/es
 
 
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luisancelvasquezvillavicencio&label=Profile%20views&color=0e75b6&style=flat" alt="luisancelvasquezvillavicencio" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisancelvasquezvillavicencio" alt="luisancelvasquezvillavicencio" /></a> </p>
 
 
 
