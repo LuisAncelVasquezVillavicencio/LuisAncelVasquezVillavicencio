@@ -61,7 +61,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li><a href="https://minedsmartzones.com/" target="_blank">Mined Smart Zones</a></li>
   </ul>
 </div>
-
+---
 <div>
   <h3>App Architect & Developer</h3>
   <p>
@@ -78,7 +78,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Proporcioné soporte durante el lanzamiento de la aplicación, asegurando un despliegue exitoso.</li>
   </ul>
 </div>
-
+---
 <div>
   <h3>App Developer & Web Architect</h3>
   <p>
@@ -101,7 +101,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <img src="img-proyectos/Zika/4.png" alt="Z4" height="150">
   </div>
 </div>
-
+---
 <div>
   <h3>Desarrollador de Aplicaciones y Arquitecto</h3>
   <p>
@@ -121,7 +121,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Proyecto Aplicación MinedGo App/iOS y Android Nativo - <a href="https://www.youtube.com/watch?v=tDGyL2S9pVc&list=TLGG-LkXwrlYswAxMTA2MjAyNQ&t=26s" target="_blank">Ver Video</a></li>
   </ul>
 </div>
-
+---
 <div>
   <h3>Web Developer & Template Designer</h3>
   <p>
@@ -139,7 +139,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Proyecto Web Easyfy - <a href="https://www.youtube.com/watch?v=afjYa_5aOSA" target="_blank">Ver Video</a></li>
   </ul>
 </div>
-
+---
 <div>
   <h3>Cloud Architect & App Developer</h3>
   <p>
@@ -157,7 +157,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li><a href="https://minedebooks.com/login" target="_blank">MinedEbooks</a></li>
   </ul>
 </div>
-
+---
 <div>
   <h3>Data Visualization Tool Developer</h3>
   <p>
@@ -174,7 +174,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Colaboré con equipos de diferentes departamentos para asegurar que la herramienta cumpliera con los requisitos específicos de la empresa, mejorando la eficiencia y efectividad en el análisis de datos.</li>
   </ul>
 </div>
-
+---
 <div>
   <h3>Full Stack Developer & Project Lead</h3>
   <p>
@@ -189,7 +189,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Diseñé un administrador de contenidos para la gestión de usuarios, facilitando la administración y operación del sistema.</li>
   </ul>
 </div>
-
+---
 <div>
   <h3>Application Developer & Project Coordinator</h3>
   <p>
@@ -207,7 +207,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Referencia: <a href="https://care.org.pe/ella-alimenta-al-mundo-mas-de-1500-agricultoras-de-ica-piura-y-lima-seran-capacitadas-en-buenas-practicas-agricolas-a-traves-de-sus-celulares/" target="_blank">CARE Perú - Ella Alimenta al Mundo</a></li>
   </ul>
 </div>
-
+---
 <div>
   <h3>System Developer & Integration Specialist</h3>
   <p>
@@ -217,16 +217,11 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
   <ul>
     <li><strong>Arquitectura y Desarrollo Completo:</strong> Diseñé y desarrollé la solución integral desde cero, utilizando tecnologías modernas para asegurar escalabilidad y eficiencia.</li>
     <li><strong>Sistema de Scorecard:</strong> Implementé un sistema de evaluación y priorización de beneficiarios, utilizando algoritmos avanzados para asegurar una distribución equitativa de los recursos.</li>
-    <li><strong>Integración de Biometría:</strong> Desarrollé la integración con dispositivos de huellas digitales para la validación de identidad, mejorando la seguridad y precisión del sistema.</li>
+    <li><strong>Integración de Biometría:</strong> Desarrollé la integración con dispositivos de huellas digitales ZKTeco para la validación de identidad, mejorando la seguridad y precisión del sistema.</li>
     <li><strong>Flujo de Trabajo Automatizado:</strong> Creé una funcionalidad de flujo de trabajo que gestiona dinámicamente el estado de las familias registradas, actualizando automáticamente su progreso a medida que se completan los datos requeridos.</li>
     <li><strong>Despliegue en AWS:</strong> La solución fue desplegada en la nube de AWS, utilizando servicios como EC2, S3 y RDS para garantizar un rendimiento óptimo y una infraestructura segura y escalable.</li>
   </ul>
 </div>
-
-
-
-
-
 
 <h2>🔧 Technical Skills</h2>
 <ul>
