@@ -41,6 +41,28 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
 </div>
 
 <div>
+  <h3>App Developer & Web Architect</h3>
+  <p>
+    <strong>Empresa:</strong>MinedWord<br>
+    <strong>Año:</strong> 2020 - 2023<br>
+    <strong>Proyecto:</strong> Desarrollo de Escáneres con TradingView
+  </p>
+  <ul>
+    <li>Participé en el desarrollo de escáneres que utilizan TradingView, encargándome de la integración de TradingView y la creación de sockets en Node.js para la comunicación en tiempo real.</li>
+    <li>Implementé soluciones para mejorar la eficiencia y escalabilidad del sistema.</li>
+    <li>Colaboré con el equipo para asegurar una integración fluida y efectiva de las tecnologías utilizadas.</li>
+  </ul>
+  
+  <ul>
+    <li><a href="https://minedflagtracker.com/" target="_blank">Mined Flag Tracker</a></li>
+    <li><a href="https://minedwedgevision.com/" target="_blank">Mined Wedge Vision</a></li>
+    <li><a href="https://minedhunter.com/" target="_blank">Mined Hunter</a></li>
+    <li><a href="https://minedharmonix.com/" target="_blank">Mined Harmonix</a></li>
+    <li><a href="https://minedsmartzones.com/" target="_blank">Mined Smart Zones</a></li>
+  </ul>
+</div>
+
+<div>
   <h3>App Architect & Developer</h3>
   <p>
     <strong>Empresa:</strong> Expodeco<br>
@@ -79,6 +101,131 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <img src="img-proyectos/Zika/4.png" alt="Z4" height="150">
   </div>
 </div>
+
+<div>
+  <h3>Desarrollador de Aplicaciones y Arquitecto</h3>
+  <p>
+    <strong>Proyectos:</strong> Aplicaciones Nativas iOS y Android<br>
+    <strong>Año:</strong> 2022 - 2024<br>
+  </p>
+  <ul>
+    <li><strong>BinaryBeats y Crypton:</strong> Lideré el diseño y desarrollo de aplicaciones nativas en iOS utilizando SwiftUI, garantizando una experiencia de usuario excepcional y fluida.</li>
+    <li><strong>MinedGo:</strong> Además de la arquitectura y desarrollo en iOS, desarrollé la aplicación Android utilizando Java, integrando funcionalidades avanzadas para el mercado de trading.</li>
+    <li><strong>Base de Datos y AWS:</strong> Diseñé el modelo de base de datos y desplegué la arquitectura en AWS, asegurando escalabilidad y rendimiento óptimo mediante el uso de servicios como EC2, S3 y Elastic Load Balancing.</li>
+    <li><strong>Herramientas:</strong> Utilicé Xcode para iOS y Android Studio para Android, aplicando las mejores prácticas de desarrollo y optimización.</li>
+  </ul>
+  
+  <ul>
+    <li>Proyecto Aplicación BinaryBeats App/iOS Nativo - <a href="https://www.youtube.com/watch?v=v8M8Sgc1GL8&list=TLGGY89KSaXBS6oxMTA2MjAyNQ&t=13s" target="_blank">Ver Video</a></li>
+    <li>Proyecto Aplicación Crypton App/iOS Nativo - <a href="https://www.youtube.com/watch?v=dJmJGwVn0y4" target="_blank">Ver Video</a></li>
+    <li>Proyecto Aplicación MinedGo App/iOS y Android Nativo - <a href="https://www.youtube.com/watch?v=tDGyL2S9pVc&list=TLGG-LkXwrlYswAxMTA2MjAyNQ&t=26s" target="_blank">Ver Video</a></li>
+  </ul>
+</div>
+
+<div>
+  <h3>Web Developer & Template Designer</h3>
+  <p>
+    <strong>Proyecto:</strong> Web Easyfy - Plantilla Personalizada para Shopify<br>
+    <strong>Año:</strong> 2022 - 2023<br>
+  </p>
+  <ul>
+    <li>Diseñé y desarrollé una plantilla personalizada para Shopify desde cero, utilizando el lenguaje Liquid para asegurar una integración perfecta y funcionalidad avanzada.</li>
+    <li>Implementé un sistema de gestión de contenido que permite a los usuarios descargar y aplicar la plantilla en sus portales, mejorando la accesibilidad y usabilidad.</li>
+    <li>Realicé integraciones de plugins y otras personalizaciones para adaptar la página a las necesidades específicas de los usuarios.</li>
+    <li>Colaboré estrechamente con el equipo para optimizar la experiencia del usuario y asegurar la escalabilidad del sistema.</li>
+  </ul>
+  
+  <ul>
+    <li>Proyecto Web Easyfy - <a href="https://www.youtube.com/watch?v=afjYa_5aOSA" target="_blank">Ver Video</a></li>
+  </ul>
+</div>
+
+<div>
+  <h3>Cloud Architect & App Developer</h3>
+  <p>
+    <strong>Empresa:</strong> MinedEbooks<br>
+    <strong>Año:</strong> 2021-2022<br>
+    <strong>Proyecto:</strong> Desarrollo de Plataforma MinedEbooks
+  </p>
+  <ul>
+    <li>Como arquitecto cloud, lideré el diseño y la implementación de la infraestructura en AWS, asegurando una arquitectura escalable y eficiente.</li>
+    <li>Configuré y optimicé servicios clave como autoscaling, EC2, load balancing, y S3 para maximizar el rendimiento y la disponibilidad de la plataforma.</li>
+    <li>Colaboré estrechamente con el equipo de desarrollo para integrar soluciones tecnológicas avanzadas, mejorando la experiencia del usuario final.</li>
+  </ul>
+  
+  <ul>
+    <li><a href="https://minedebooks.com/login" target="_blank">MinedEbooks</a></li>
+  </ul>
+</div>
+
+<div>
+  <h3>Data Visualization Tool Developer</h3>
+  <p>
+    <strong>Proyecto:</strong> MiVisualización - Herramienta de Visualización de Datos<br>
+    <strong>Empresa:</strong> Millennial<br>
+    <strong>Año:</strong> 2020 - 2021<br>
+  </p>
+  <ul>
+    <li>Desarrollé MiVisualización, una herramienta avanzada de visualización de datos que permite la gestión completa de reportes, optimizando la toma de decisiones empresariales.</li>
+    <li>Integré Power BI Embedded para centralizar el acceso a reportes, eliminando la necesidad de múltiples licencias de Power BI Pro y reduciendo significativamente los costos operativos.</li>
+    <li>Creé una API en C# que se integra con Azure Directory para autenticar y generar tokens personalizados para Power BI Embedded, permitiendo un control eficiente de acceso y costos al poder apagar instancias cuando no están en uso.</li>
+    <li>La API fue publicada en Azure App Service, asegurando una implementación escalable y segura.</li>
+    <li>Me encargué de la configuración de Azure en la nube, optimizando los recursos y asegurando la eficiencia operativa.</li>
+    <li>Colaboré con equipos de diferentes departamentos para asegurar que la herramienta cumpliera con los requisitos específicos de la empresa, mejorando la eficiencia y efectividad en el análisis de datos.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Full Stack Developer & Project Lead</h3>
+  <p>
+    <strong>Proyecto:</strong> CIP Colegio de Ingenieros - Generación de Certificados de Habilidades<br>
+    <strong>Año:</strong> 2019<br>
+  </p>
+  <ul>
+    <li>Lideré el proyecto desde el relevamiento de requisitos hasta la construcción completa de la solución utilizando Laravel, asegurando un desarrollo eficiente y alineado con las necesidades del cliente.</li>
+    <li>Implementé la solución en servidores locales Linux, encargándome de la configuración del dominio y el despliegue de la aplicación.</li>
+    <li>Desarrollé funcionalidades para la validación de certificados digitales mediante la lectura de códigos QR y su generación en los documentos.</li>
+    <li>Integré una pasarela de pagos y gestioné la integración con los usuarios propios de la organización, mejorando la accesibilidad y funcionalidad del sistema.</li>
+    <li>Diseñé un administrador de contenidos para la gestión de usuarios, facilitando la administración y operación del sistema.</li>
+  </ul>
+</div>
+
+<div>
+  <h3>Application Developer & Project Coordinator</h3>
+  <p>
+    <strong>Proyecto:</strong> Plataforma de Capacitación para CARE Perú<br>
+    <strong>Año:</strong> 2019<br>
+  </p>
+  <ul>
+    <li>Desarrollé una solución integral compuesta por un administrador de contenido y una aplicación móvil para facilitar el acceso a cursos en zonas rurales.</li>
+    <li>El administrador, construido en Laravel, permitía la carga y gestión de material de cursos, mientras que la aplicación móvil permitía a los usuarios descargar y acceder a los cursos de manera offline.</li>
+    <li>Implementé un proceso de sincronización que cargaba los datos de uso a la nube de AWS, permitiendo el seguimiento y generación de reportes analíticos sobre el uso de la plataforma.</li>
+    <li>Esta solución fue diseñada para empoderar a personas en zonas rurales, facilitando el acceso a capacitaciones y mejorando sus oportunidades educativas.</li>
+  </ul>
+  
+  <ul>
+    <li>Referencia: <a href="https://care.org.pe/ella-alimenta-al-mundo-mas-de-1500-agricultoras-de-ica-piura-y-lima-seran-capacitadas-en-buenas-practicas-agricolas-a-traves-de-sus-celulares/" target="_blank">CARE Perú - Ella Alimenta al Mundo</a></li>
+  </ul>
+</div>
+
+<div>
+  <h3>System Developer & Integration Specialist</h3>
+  <p>
+    <strong>Proyecto:</strong> Sistema de Gestión de Beneficiarios para World Vision y CARE<br>
+    <strong>Año:</strong> 2019<br>
+  </p>
+  <ul>
+    <li><strong>Arquitectura y Desarrollo Completo:</strong> Diseñé y desarrollé la solución integral desde cero, utilizando tecnologías modernas para asegurar escalabilidad y eficiencia.</li>
+    <li><strong>Sistema de Scorecard:</strong> Implementé un sistema de evaluación y priorización de beneficiarios, utilizando algoritmos avanzados para asegurar una distribución equitativa de los recursos.</li>
+    <li><strong>Integración de Biometría:</strong> Desarrollé la integración con dispositivos de huellas digitales para la validación de identidad, mejorando la seguridad y precisión del sistema.</li>
+    <li><strong>Flujo de Trabajo Automatizado:</strong> Creé una funcionalidad de flujo de trabajo que gestiona dinámicamente el estado de las familias registradas, actualizando automáticamente su progreso a medida que se completan los datos requeridos.</li>
+    <li><strong>Despliegue en AWS:</strong> La solución fue desplegada en la nube de AWS, utilizando servicios como EC2, S3 y RDS para garantizar un rendimiento óptimo y una infraestructura segura y escalable.</li>
+  </ul>
+</div>
+
+
+
+
 
 
 <h2>🔧 Technical Skills</h2>
@@ -184,67 +331,15 @@ https://www.notion.com/es
 
 
 
-Proyecto MinedTV LMS en Streaming
-Proyecto Portal Micanva
-Proyecto Escáner Harmonix
-Proyecto Aplicación Crypton App/iOS Nativo
-Proyecto Web Easyfy Template para Shopify
-Proyecto Aplicación BinaryBeats App/iOS Nativo
-Proyecto MinedAcademy LMS
-Proyecto MinedEbook
-Proyecto CashKing
-Proyecto Aplicación MinedGo App/iOS Nativo
-Proyecto MiVisualización
-Proyecto Feria Online Expodeco
-Proyecto MiConect
-Proyecto CIP Colegio de Ingenieros Generación de Certificados de Habilidades
-Proyecto Aplicación Prospera App LMS Offline
-Proyecto Gestión del Proceso de Café
-div>
-  <h3>💼 Proyecto: MinedTV LMS en Streaming</h3>
-
-  <h3>💼 Proyecto: Escáner Harmonix</h3>
-
-  <h3>💼 Proyecto: Aplicación Crypton App/iOS Nativo</h3>
-
-  <h3>💼 Proyecto: Web Easyfy Template para Shopify</h3>
-
-  <h3>💼 Proyecto: Aplicación BinaryBeats App/iOS Nativo</h3>
-
-  <h3>💼 Proyecto: MinedAcademy LMS</h3>
-
-  <h3>💼 Proyecto: MinedEbook</h3>
-
-  <h3>💼 Proyecto: CashKing</h3>
-
-  <h3>💼 Proyecto: Aplicación MinedGo App/iOS Nativo</h3>
-
-  <h3>💼 Proyecto: MiVisualización</h3>
-
-  <h3>💼 Proyecto: MiConect</h3> envios masivos wsp
-
-  <h3>💼 Proyecto: CIP Colegio de Ingenieros Generación de Certificados de Habilidades</
-  <h3>💼 Proyecto: Aplicación Prospera App LMS Offline</h3>
-
-    <p> EL APP QUE ESRA CURSSO OFFLINE
-  
 
 
-minedgo
-https://apps.apple.com/ec/app/mined-go/id1611429257
-https://mined.world/mined-go-la-herramienta-mas-potente-de-la-industria-del-trading/
 
 
-colegio inge º
-
-https://millev.com/portfolio/sistema-de-emision-certificado-de-habilidad/
-
-beneficiarios 
-
-https://millev.com/portfolio/sistema-de-gestion-de-beneficiarios/
 
 
-linkd e mined
-https://mined.world/
+
+
+
+
 
 
