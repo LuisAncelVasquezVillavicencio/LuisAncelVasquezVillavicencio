@@ -22,7 +22,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Definí la base de datos de la aplicación, optimizando el almacenamiento y acceso a los datos.</li>
   </ul>
 </div>
-
+---
 <div>
   <h3>App & Cloud Architect and Technical Leader</h3>
   <p>
@@ -39,7 +39,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <li>Me encargué de la definición de la base de datos de la aplicación en PostgreSQL, optimizando el almacenamiento y acceso a los datos.</li>
   </ul>
 </div>
-
+---
 <div>
   <h3>App Developer & Web Architect</h3>
   <p>
