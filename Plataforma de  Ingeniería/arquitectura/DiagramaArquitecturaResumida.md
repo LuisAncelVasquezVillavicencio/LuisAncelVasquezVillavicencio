@@ -64,5 +64,3 @@ El diagrama representa la arquitectura lógica y tecnológica de la plataforma, 
 - El diseño y los módulos pueden evolucionar según las necesidades del negocio y feedback de los usuarios.
 
 ---
-
-Para más detalles, consulta el documento de requerimientos y el prompt de mockup adjuntos en este repositorio. 
