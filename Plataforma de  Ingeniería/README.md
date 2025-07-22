@@ -11,7 +11,7 @@ Este repositorio contiene la documentación, planificación, arquitectura y recu
   - [Plan de actividades detallado por módulo](./actividades/plan-actividades-plataforma-ingenieria.md)
 - [arquitectura/](./arquitectura/)
   - Diagramas, modelos y documentación de la arquitectura general del sistema.
-  - [Diagrama de Arquitectura Resumida (PNG)](./arquitectura/material/Diagrama%20sin%20t%C3%ADtulo.drawio)
+  - [Diagrama de Arquitectura Resumida (PNG)](./arquitectura/material/DiagramaArquitecturaResumida.png)
   - [Explicación del Diagrama de Arquitectura (MD)](./arquitectura/DiagramaArquitecturaResumida.md)
 - [mokup/](./mokup/)
   - Prompts, recursos y archivos relacionados con el diseño de mockups y prototipos de la plataforma.
@@ -32,7 +32,16 @@ Este repositorio contiene la documentación, planificación, arquitectura y recu
     - [Configuracion.png](./mokup/Configuracion.png)
     - [Documentación.png](./mokup/Documentaci%C3%B3n.png)
 
+---
 
+## Navegación Rápida
 
+- [Plan de actividades y cronograma](./actividades/estimacion-tiempos-proyecto.md)
+- [Roles necesarios para el proyecto](./actividades/roles-proyecto.md)
+- [Plan de actividades detallado por módulo](./actividades/plan-actividades-plataforma-ingenieria.md)
+- [Prompt para mockup de la plataforma](./mokup/prompt-mokup.txt)
+- [Diagramas de arquitectura](./arquitectura/)
+- [Diagrama de Arquitectura Resumida (PNG)](./arquitectura/material/DiagramaArquitecturaResumida.png)
+- [Explicación del Diagrama de Arquitectura (MD)](./arquitectura/DiagramaArquitecturaResumida.md)
 
 ---
