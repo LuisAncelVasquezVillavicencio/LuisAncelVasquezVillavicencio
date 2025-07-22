@@ -12,7 +12,7 @@ Este repositorio contiene la documentación, planificación, arquitectura y recu
 
 - [Arquitectura/](./arquitectura/)
   - Diagramas, modelos y documentación de la arquitectura general del sistema.
-    - [Diagrama de Arquitectura Resumida (PNG)](./arquitectura/material/DiagramaArquitecturaResumida.png)
+    - [Diagrama de Arquitectura Resumida (PNG)](./arquitectura/DiagramaArquitecturaResumida.png)
     - [Explicación del Diagrama de Arquitectura (MD)](./arquitectura/DiagramaArquitecturaResumida.md)
 
 - [Pantallas/](./mokup/)
