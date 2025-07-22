@@ -1,0 +1,31 @@
+Prompt para generar un mockup de la "Plataforma de Ingeniería" para Cementos Pacasmayo:
+
+Diseña un mockup de una plataforma web llamada "Plataforma de Ingeniería" orientada a ingenieros de datos, analistas y líderes técnicos del Centro de Excelencia de Cementos Pacasmayo. El objetivo es consolidar y simplificar el uso de herramientas técnicas existentes (scripts shell, APIs REST) mediante una interfaz gráfica moderna, intuitiva y responsiva, accesible desde cualquier dispositivo.
+
+Requisitos clave:
+- Autenticación centralizada con Google Workspace (Google Identity Platform, OAuth 2.0).
+- Interfaz amigable, accesible y responsiva (Angular 18+ y Material UI, siguiendo el Design System "Bricks" de la compañía: https://bricks.cpsaa.com.pe/682e87486/p/34a0f5-bricks-design-system).
+- Módulos principales:
+  1. Dashboard principal con acceso rápido a utilitarios y métricas.
+  2. Ejecución de scripts y APIs internas mediante botones y formularios parametrizados.
+     - Algunos scripts pueden requerir un flujo de aprobación antes de su ejecución. Este flujo debe ser básico pero funcional, permitiendo configurar la cantidad de aprobadores (pueden ser dos o más personas) y los responsables, así como el envío de notificaciones por email a los involucrados en el proceso de aprobación.
+  3. Gestión de permisos y accesos a recursos (solicitud, aprobación, auditoría).
+  4. Automatización y monitoreo de backups.
+  5. Registro y auditoría de todas las operaciones.
+  6. Módulo de ayuda y documentación técnica.
+- Control de acceso basado en roles (ingeniero, analista, líder técnico), con visibilidad y permisos diferenciados.
+- Experiencia de usuario amigable, accesible e inclusiva, con pruebas de usabilidad y feedback continuo.
+- Arquitectura modular y escalable, preparada para añadir nuevos módulos en el futuro.
+- Cumplimiento de lineamientos de seguridad, arquitectura empresarial y buenas prácticas de desarrollo seguro.
+
+El mockup debe mostrar pantallas clave como: login, dashboard, ejecución de utilitarios (incluyendo flujos de aprobación), gestión de permisos, historial de auditoría, visualización de backups, ayuda/documentación y administración de usuarios.
+
+Utiliza Figma y el Design System Bricks para asegurar coherencia visual y de experiencia. El diseño debe ser profesional, moderno y alineado a la identidad de Cementos Pacasmayo. 
+
+Tecnologías a utilizar:
+- Frontend: Angular 18+ con Material UI, siguiendo el Design System Bricks.
+- Backend: Node.js (Cloud Functions en Google Cloud Platform).
+- Autenticación: Google Identity Platform (OAuth 2.0, Google Workspace).
+- Base de datos: Firestore.
+- Infraestructura: Firebase Hosting o Cloud Run.
+- Notificaciones: Envío de emails automáticos para flujos de aprobación. 
