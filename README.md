@@ -29,7 +29,7 @@ Soy un arquitecto de soluciones y aplicaciones con vasta experiencia en el desar
     <strong>Empresa:</strong> MinedWord LMS<br>
     <strong>Caso:</strong> Desarrollo de plataforma de educación online<br>
     <strong>URL:</strong> <a href="https://minedacademy.com" target="_blank">minedacademy.com</a><br>
-    <strong>Fecha:</strong> 2023 - Diciembre 2024
+    <strong>Fecha:</strong> 2023 - Diciembre 2025
   </p>
   <ul>
     <li>Definí una arquitectura serverless en AWS utilizando microservicios con lambdas y API Gateway, integrando un frontend robusto en React para una experiencia de usuario dinámica y eficiente, con Cloudflare para mejorar la seguridad y el rendimiento.</li>
